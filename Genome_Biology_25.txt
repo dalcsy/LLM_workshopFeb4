@@ -1,0 +1,570 @@
+﻿Reference Type:  Journal Article
+Record Number: 3945
+Author: Almeida, M. V., Blumer, M., Yuan, C. U., Sierra, P., Price, J. L., Quah, F. X., Friman, A., Dallaire, A., Vernaz, G., Putman, A. L. K., Smith, A. M., Joyce, D. A., Butter, F., Haase, A. D., Durbin, R., Santos, M. E. and Miska, E. A.
+Year: 2025
+Title: Dynamic co-evolution of transposable elements and the piRNA pathway in African cichlid fishes
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 22
+Short Title: Dynamic co-evolution of transposable elements and the piRNA pathway in African cichlid fishes
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 14
+10.1186/s13059-025-03475-z
+Accession Number: WOS:001402226600002
+Keywords: multiple sequence alignment
+crystal-structure
+high-accuracy
+evolution
+protein
+piwi
+rna
+argonaute
+identification
+expression
+Abstract: BackgroundEast African cichlid fishes have diversified in an explosive fashion, but the (epi)genetic basis of the phenotypic diversity of these fishes remains largely unknown. Although transposable elements (TEs) have been associated with phenotypic variation in cichlids, little is known about their transcriptional activity and epigenetic silencing. We set out to bridge this gap and to understand the interactions between TEs and their cichlid hosts.ResultsHere, we describe dynamic patterns of TE expression in African cichlid gonads and during early development. Orthology inference revealed strong conservation of TE silencing factors in cichlids, and an expansion of piwil1 genes in Lake Malawi cichlids, likely driven by PiggyBac TEs. The expanded piwil1 copies have signatures of positive selection and retain amino acid residues essential for catalytic activity. Furthermore, the gonads of African cichlids express a Piwi-interacting RNA (piRNA) pathway that targets TEs. We define the genomic sites of piRNA production in African cichlids and find divergence in closely related species, in line with fast evolution of piRNA-producing loci.ConclusionsOur findings suggest dynamic co-evolution of TEs and host silencing pathways in the African cichlid radiations. We propose that this co-evolution has contributed to cichlid genomic diversity.
+Notes: T0t0f
+Times Cited:0
+Cited References Count:146
+URL: <Go to ISI>://WOS:001402226600002
+Author Address: Univ Cambridge, Dept Biochem, Tennis Court Rd, Cambridge CB2 1GA, England
+Univ Cambridge, Wellcome CRUK Gurdon Inst, Tennis Court Rd, Cambridge CB2 1QN, England
+Univ Cambridge, Dept Genet, Downing St, Cambridge CB2 3EH, England
+Natl Inst Diabet & Digest & Kidney Dis, NIH, Bethesda, MD 20892 USA
+Univ Maryland, Inst Phys Sci & Technol, Biophys Grad Program, College Pk, MD 20742 USA
+Royal Bot Gardens Kew, Jodrell Lab, Comparat Fungal Biol, Richmond TW9 3DS, Surrey, England
+Univ Basel, Dept Environm Sci, Zool Inst, Vesalgasse 1, CH-4051 Basel, Switzerland
+Univ Hull, Sch Nat Sci, Kingston Upon Hull HU6 7RX, England
+Inst Mol Biol IMB, Quant Prote, Ackermannweg 4, D-55128 Mainz, Germany
+Friedrich Loeffler Inst, Inst Mol Virol & Cell Biol, D-17493 Greifswald, Germany
+Wellcome Genome Campus, Tree Life Wellcome Sanger Inst, Wellcome Genome Campus, Hinxton CB10 1SA, England
+Univ Cambridge, Dept Zool, Downing St, Cambridge CB2 3EJ, England
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3946
+Author: Balvert, M., Cooper-Knock, J., Stamp, J., Byrne, R. P., Mourragui, S., van Gils, J., Benonisdottir, S., Schlüter, J., Kenna, K., Abeln, S., Iacoangeli, A., Daub, J. T., Browning, B. L., Tas, G., Hu, J. J., Wang, Y., Alhathli, E., Harvey, C., Pianesi, L., Schulte, S. C., González-Domínguez, J., Garrisson, E., Epistasis, Lorentz Workshop, Snyder, M. P., Schönhuth, A., Sng, L. M. F. and Twine, N. A.
+Year: 2025
+Title: Considerations in the search for epistasis (vol 25,296,2024)
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 20
+Short Title: Considerations in the search for epistasis (vol 25,296,2024)
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 12
+10.1186/s13059-025-03477-x
+Accession Number: WOS:001401726200001
+Notes: S9z9p
+Times Cited:0
+Cited References Count:1
+URL: <Go to ISI>://WOS:001401726200001
+Author Address: Tilburg Univ, Tilburg, Netherlands
+Univ Sheffield, SITraN, Sheffield, England
+Brown Univ, Providence, RI USA
+Trinity Coll Dublin, Smurfit Inst Genet, Dublin, Ireland
+Hubrecht Inst, Utrecht, Netherlands
+Vrije Univ Amsterdam, Amsterdam, Netherlands
+Univ Oxford, Oxford, England
+Bielefeld Univ, Bielefeld, Germany
+UMC Utrecht, Utrecht, Netherlands
+Kings Coll London, Dept Biostat & Hlth Informat, London, England
+Kings Coll London, Dept Basic & Clin Neurosci, London, England
+NIHR BRC SLAM NHS Fdn Trust, London, England
+Univ Washington, Seattle, WA USA
+Heinrich Heine Univ, Algorithm Bioinformat, Dusseldorf, Germany
+Heinrich Heine Univ, Ctr Digital Med, Dusseldorf, Germany
+Univ A Coruna, CITIC, La Coruna, Spain
+Univ Tennessee, Knoxville, TN USA
+Stanford Univ, Dept Genet, Stanford, CA USA
+CSIRO, Westmead, Australia
+Univ Iceland, Reykjavik, Iceland
+Univ Florida, Dept Epidemiol, Gainesville, FL USA
+Univ Utrecht, Utrecht, Netherlands
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3947
+Author: Chen, W. B., Xie, Q., Fu, J., Li, S. J., Shi, Y. N., Lu, J., Zhang, Y. Y., Zhao, Y. J., Ma, R. J., Li, B. J., Zhang, B., Grierson, D., Yu, M. L., Fei, Z. J. and Chen, K. S.
+Year: 2025
+Title: Graph pangenome reveals the regulation of malate content in blood-fleshed peach by NAC transcription factors
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 9
+Short Title: Graph pangenome reveals the regulation of malate content in blood-fleshed peach by NAC transcription factors
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 7
+10.1186/s13059-024-03470-w
+Accession Number: WOS:001393545200001
+Keywords: graph pangenome
+peach
+malate content
+blood-fleshed
+nac
+pan-genome analysis
+anthocyanin biosynthesis
+fruit
+accurate
+domestication
+accumulation
+annotation
+activation
+diversity
+efficient
+Abstract: BackgroundFruit acidity and color are important quality attributes in peaches. Although there are some exceptions, blood-fleshed peaches typically have a sour taste. However, little is known about the genetic variations linking organic acid and color regulation in peaches.ResultsHere, we report a peach graph-based pangenome constructed from sixteen individual genome assemblies, capturing abundant structural variations and 82.3 Mb of sequences absent in the reference genome. Pangenome analysis reveals a long terminal repeat retrotransposon insertion in the promoter of the NAC transcription factor (TF) PpBL in blood-fleshed peaches, which enhances PpBL expression. Genome-wide association study identifies a significant association between PpBL and malate content. Silencing PpBL in peach fruit and ectopic overexpression of PpBL in tomatoes confirm that PpBL is a positive regulator of malate accumulation. Furthermore, we demonstrate that PpBL works synergistically with another NAC TF, PpNAC1, to activate the transcription of the aluminum-activated malate transporter PpALMT4, leading to increased malate content.ConclusionsThese findings, along with previous research showing that PpBL and PpNAC1 also regulate anthocyanin accumulation, explain the red coloration and sour taste in blood-fleshed peach fruits.
+Notes: R7y0q
+Times Cited:0
+Cited References Count:92
+URL: <Go to ISI>://WOS:001393545200001
+Author Address: Zhejiang Univ, Coll Agr & Biotechnol, Hangzhou 310058, Peoples R China
+Zhejiang Univ, Zhejiang Key Lab Hort Crop Qual Improvement, Hangzhou 310058, Peoples R China
+Zhejiang Univ, State Agr Minist, Lab Hort Plant Growth Dev & Qual Improvement, Dept Hort, Hangzhou 310058, Peoples R China
+Jiangsu Acad Agr Sci, Inst Pomol, Jiangsu Key Lab Hort Crop Genet Improvement, Nanjing 210014, Peoples R China
+Univ Nottingham, Sch Biosci, Div Plant & Crop Sci, Loughborough LE12 5RD, England
+Cornell Univ, Boyce Thompson Inst, Ithaca, NY 14853 USA
+USDA ARS, Robert W Holley Ctr Agr & Hlth, Ithaca, NY 14853 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3948
+Author: Gaston, J. M., Alm, E. J. and Zhang, A. N.
+Year: 2025
+Title: X-Mapper: fast and accurate sequence alignment via gapped x-mers
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 22
+Short Title: X-Mapper: fast and accurate sequence alignment via gapped x-mers
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 15
+10.1186/s13059-024-03473-7
+Accession Number: WOS:001402226600001
+Keywords: bioinformatics
+sequence alignment algorithms
+k-mer
+microbial sequencing
+read alignment
+Abstract: Sequence alignment is foundational to many bioinformatic analyses. Many aligners start by splitting sequences into contiguous, fixed-length seeds, called k-mers. Alignment is faster with longer, unique seeds, but more accurate with shorter seeds avoiding mutations. Here, we introduce X-Mapper, aiming to offer high speed and accuracy via dynamic-length seeds containing gaps, called gapped x-mers. We observe 11-24-fold fewer suboptimal alignments analyzing a human reference and 3-579-fold lower inconsistency across bacterial references than other aligners, improving on 53% and 30% of reads aligned to non-target strains and species, respectively. Other seed-based analysis algorithms might benefit from gapped x-mers too.
+Notes: T0t0f
+Times Cited:0
+Cited References Count:33
+URL: <Go to ISI>://WOS:001402226600001
+Author Address: Google, Cambridge, MA USA
+MIT, Dept Biol Engn, Cambridge, MA 02139 USA
+Nanyang Technol Univ, Sch Biol Sci, Singapore, Singapore
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3949
+Author: Ge, W., Niu, Y. L., Li, Y. K., Li, L., Wang, H., Li, W. W., Qiao, T., Feng, Y. N., Feng, Y. Q., Liu, J., Wang, J. J., Sun, X. F., Cheng, S. F., Li, L. and Shen, W.
+Year: 2025
+Title: Spatiotemporal dynamics of early oogenesis in pigs
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 2
+Short Title: Spatiotemporal dynamics of early oogenesis in pigs
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 2
+10.1186/s13059-024-03464-8
+Accession Number: WOS:001389169500001
+Keywords: spatiotemporal transcriptomics
+early oogenesis
+microenvironments
+cell
+differentiation
+Abstract: BackgroundIn humans and other mammals, the process of oogenesis initiates asynchronously in specific ovarian regions, leading to the localization of dormant and growing follicles in the cortex and medulla, respectively; however, the current understanding of this process remains insufficient.ResultsHere, we integrate single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics (ST) to comprehend spatial-temporal gene expression profiles and explore the spatial organization of ovarian microenvironments during early oogenesis in pigs. Projection of the germ cell clusters at different stages of oogenesis into the spatial atlas unveils a "cortical to medullary (C-M)" distribution of germ cells in the developing porcine ovaries. Cross-species analysis between pigs and humans unveils a conserved C-M distribution pattern of germ cells during oogenesis, highlighting the utility of pigs as valuable models for studying human oogenesis in a spatial context. RNA velocity analysis with ST identifies the molecular characteristics and spatial dynamics of granulosa cell lineages originating from the cortical and medullary regions in pig ovaries. Spatial co-occurrence analysis and intercellular communication analysis unveils a distinct cell-cell communication pattern between germ cells and somatic cells in the cortex and medulla regions. Notably, in vitro culture of ovarian tissues verifies that intercellular NOTCH signaling and extracellular matrix (ECM) proteins played crucial roles in initiating meiotic and oogenic programs, highlighting an underappreciated role of ovarian microenvironments in orchestrating germ cell fates.ConclusionsOverall, our work provides insight into the spatial characteristics of early oogenesis and the regulatory role of ovarian microenvironments in germ cell fate within a spatial context.
+Notes: R1m1l
+Times Cited:0
+Cited References Count:56
+URL: <Go to ISI>://WOS:001389169500001
+Author Address: Qingdao Agr Univ, Coll Life Sci, Key Lab Anim Reprod & Biotechnol Univ Shandong, Qingdao 266109, Peoples R China
+Qingdao Agr Univ, Coll Vet Med, Lab Anim Reprod Physiol & Dis, Qingdao 266109, Peoples R China
+Qingdao Agr l Univ, Sch Hosp, Qingdao 266109, Peoples R China
+Qingdao Agr Univ, Cent Lab, Qingdao 266109, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3950
+Author: Hure, V., Piron-Prunier, F., Yehouessi, T., Vitte, C., Kornienko, A. E., Adam, G., Nordborg, M. and Déléris, A.
+Year: 2025
+Title: Alternative silencing states of transposable elements in Arabidopsis associated with H3K27me3
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 20
+Short Title: Alternative silencing states of transposable elements in Arabidopsis associated with H3K27me3
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 11
+10.1186/s13059-024-03466-6
+Accession Number: WOS:001401726200002
+Keywords: transposable elements (te)
+polycomb (pcg)
+DNA methylation
+epigenetics
+epigenomics
+natural variation
+repressive complex 2
+DNA methylation
+histone h3
+polycomb
+chromatin
+cis
+retrotransposition
+demethylation
+expression
+lysine-9
+Abstract: BackgroundThe DNA/H3K9 methylation and Polycomb-group proteins (PcG)-H3K27me3 silencing pathways have long been considered mutually exclusive and specific to transposable elements (TEs) and genes, respectively in mammals, plants, and fungi. However, H3K27me3 can be recruited to many TEs in the absence of DNA/H3K9 methylation machinery and sometimes also co-occur with DNA methylation.ResultsIn this study, we show that TEs can also be solely targeted and silenced by H3K27me3 in wild-type Arabidopsis plants. These H3K27me3-marked TEs not only comprise degenerate relics but also seemingly intact copies that display the epigenetic features of responsive PcG target genes as well as an active H3K27me3 regulation. We also show that H3K27me3 can be deposited on newly inserted transgenic TE sequences in a TE-specific manner indicating that silencing is determined in cis. Finally, a comparison of Arabidopsis natural accessions reveals the existence of a category of TEs-which we refer to as "bifrons"-that are marked by DNA methylation or H3K27me3 depending on the accession. This variation can be linked to intrinsic TE features and to trans-acting factors and reveals a change in epigenetic status across the TE lifespan.ConclusionsOur study sheds light on an alternative mode of TE silencing associated with H3K27me3 instead of DNA methylation in flowering plants. It also suggests dynamic switching between the two epigenetic marks at the species level, a new paradigm that might extend to other multicellular eukaryotes.
+Notes: S9z9p
+Times Cited:0
+Cited References Count:79
+URL: <Go to ISI>://WOS:001401726200002
+Author Address: Univ Paris Saclay, Inst Integrat Biol Cell I2BC, Ctr Natl Rech Sci CNRS, Commissariat Energie Atom CEA, F-91190 Gif Sur Yvette, France
+Univ Paris Saclay, Inst Natl Rech Agr Alimentat & Environm INRAE, CNRS, AgroParisTech,Genet Quantitat & Evolut GQE, F-91190 Gif Sur Yvette, France
+Austrian Acad Sci, Gregor Mendel Inst GMI, Vienna Bioctr VBC, Vienna, Austria
+Univ Paris Saclay, Inst Plant Sci Paris Saclay IPS2, CNRS, INRAE, F-91190 Gif Sur Yvette, France
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3951
+Author: Koptekin, D., Yapar, E., Vural, K. B., Saglican, E., Altinisik, N. E., Malaspinas, A. S., Alkan, C. and Somel, M.
+Year: 2025
+Title: Pre-processing of paleogenomes: mitigating reference bias and postmortem damage in ancient genome data
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 9
+Short Title: Pre-processing of paleogenomes: mitigating reference bias and postmortem damage in ancient genome data
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 6
+10.1186/s13059-024-03462-w
+Accession Number: WOS:001393545200002
+Keywords: ancient DNA
+reference bias
+graph-reference genome
+post-mortem damage
+masking
+DNA
+sequence
+western
+admixture
+patterns
+history
+Abstract: We investigate alternative strategies against reference bias and postmortem damage in low coverage paleogenomes. Compared to alignment to the linear reference genome, we show that masking known polymorphic sites and graph alignment effectively remove reference bias, but only starting from raw read files. We next study approaches to overcome postmortem damage: trimming, rescaling, and our newly developed algorithm, bamRefine (github.com/etkayapar/bamRefine and zenodo.org/records/14234666), masking reads only at positions possibly affected by PMD. We propose graph alignment coupled with bamRefine as a simple strategy to minimize data loss and bias, and urge the community to publish FASTQ files.
+Notes: R7y0q
+Times Cited:0
+Cited References Count:89
+URL: <Go to ISI>://WOS:001393545200002
+Author Address: Middle East Tech Univ, Dept Biol Sci, Ankara, Turkiye
+Univ Lausanne, Dept Computat Biol, Lausanne, Switzerland
+Univ Lausanne, Swiss Inst Bioinformat, Lausanne, Switzerland
+Lund Univ, Dept Biol, Lund, Sweden
+Middle East Tech Univ, Grad Sch Informat, Dept Hlth Informat, Ankara, Turkiye
+Hacettepe Univ, Dept Anthropol, Human G Lab, Ankara, Turkiye
+Bilkent Univ, Dept Comp Engn, Ankara, Turkiye
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3952
+Author: Mohite, O. S., Jorgensen, T. S., Booth, T. J., Charusanti, P., Phaneuf, P. V., Weber, T. and Palsson, B. O.
+Year: 2025
+Title: Pangenome mining of the 
+ genus redefines species' biosynthetic potential
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 14
+Short Title: Pangenome mining of the 
+ genus redefines species' biosynthetic potential
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 9
+10.1186/s13059-024-03471-9
+Accession Number: WOS:001396277000001
+Keywords: pangenome analysis
+streptomyces
+genome mining
+biosynthetic gene clusters
+phylogenetic analysis
+metabolism
+genome sequence
+bacterial
+evolution
+diversity
+clusters
+Abstract: BackgroundStreptomyces is a highly diverse genus known for the production of secondary or specialized metabolites with a wide range of applications in the medical and agricultural industries. Several thousand complete or nearly complete Streptomyces genome sequences are now available, affording the opportunity to deeply investigate the biosynthetic potential within these organisms and to advance natural product discovery initiatives.ResultsWe perform pangenome analysis on 2371 Streptomyces genomes, including approximately 1200 complete assemblies. Employing a data-driven approach based on genome similarities, the Streptomyces genus was classified into 7 primary and 42 secondary Mash-clusters, forming the basis for comprehensive pangenome mining. A refined workflow for grouping biosynthetic gene clusters (BGCs) redefines their diversity across different Mash-clusters. This workflow also reassigns 2729 known BGC families to only 440 families, a reduction caused by inaccuracies in BGC boundary detections. When the genomic location of BGCs is included in the analysis, a conserved genomic structure, or synteny, among BGCs becomes apparent within species and Mash-clusters. This synteny suggests that vertical inheritance is a major factor in the diversification of BGCs.ConclusionsOur analysis of a genomic dataset at a scale of thousands of genomes refines predictions of BGC diversity using Mash-clusters as a basis for pangenome analysis. The observed conservation in the order of BGCs' genomic locations shows that the BGCs are vertically inherited. The presented workflow and the in-depth analysis pave the way for large-scale pangenome investigations and enhance our understanding of the biosynthetic potential of the Streptomyces genus.
+Notes: S1y9n
+Times Cited:0
+Cited References Count:60
+URL: <Go to ISI>://WOS:001396277000001
+Author Address: Tech Univ Denmark, Novo Nordisk Fdn Ctr Biosustainabil, DK-2800 Lyngby, Denmark
+Univ Calif San Diego, Dept Bioengn, La Jolla, CA 92093 USA
+Univ Calif San Diego, Bioinformat & Syst Biol Program, La Jolla, CA 92093 USA
+Univ Calif San Diego, Dept Pediat, La Jolla, CA 92093 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3953
+Author: Passarelli-Araujo, H., Venancio, T. M. and Hanage, W. P.
+Year: 2025
+Title: Relating ecological diversity to genetic discontinuity across bacterial species
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 10
+Short Title: Relating ecological diversity to genetic discontinuity across bacterial species
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 8
+10.1186/s13059-024-03443-z
+Accession Number: WOS:001394376900001
+Keywords: pangenome
+machine learning
+speciation
+genetic rate of change
+bacterial ecology
+sequence
+Abstract: BackgroundGenetic discontinuity represents abrupt breaks in genomic identity among species. Advances in genome sequencing have enhanced our ability to track and characterize genetic discontinuity in bacterial populations. However, exploring the degree to which bacterial diversity exists as a continuum or sorted into discrete and readily defined species remains a challenge in microbial ecology. Here, we aim to quantify the genetic discontinuity (delta\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\delta$$\end{document}) and investigate how this metric is related to ecology.ResultsWe harness a dataset comprising 210,129 genomes to systematically explore genetic discontinuity patterns across several distantly related species, finding clear breakpoints which vary depending on the taxa in question. By delving into pangenome characteristics, we uncover a significant association between pangenome saturation and genetic discontinuity. Closed pangenomes are associated with more pronounced breaks, exemplified by Mycobacterium tuberculosis. Additionally, through a machine learning approach, we detect key features such as gene conservation patterns and functional annotations that significantly impact genetic discontinuity prediction.ConclusionsOur study clarifies bacterial genetic patterns and their ecological impacts, enhancing the delineation of species boundaries and deepening our understanding of microbial diversity.
+Notes: R9e0n
+Times Cited:0
+Cited References Count:54
+URL: <Go to ISI>://WOS:001394376900001
+Author Address: Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Ctr Communicable Dis Dynam, Boston, MA 02115 USA
+Univ Fed Minas Gerais, Dept Bioquim & Imunol, Inst Ciencias Biol, Belo Horizonte, MG, Brazil
+Univ Estadual Norte Fluminense, Ctr Biociencias & Biotecnol, Lab Quim & Funcao Prot & Peptideos, Campos Dos Goytacazes, RJ, Brazil
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3954
+Author: Rubin, A. F., Stone, J., Bianchi, A. H., Capodanno, B. J., Da, E. Y., Dias, M., Esposito, D., Frazer, J., Fu, Y. F., Grindstaff, S. B., Harrington, M. R., Li, I. R., Mcewen, A. E., Min, J. K., Moore, N., Moscatelli, O. G., Ong, J., Polunina, P. V., Rollins, J. E., Rollins, N. J., Snyder, A. E., Tam, A., Wakefield, M. J., Starita, L. M., Bryant, V. L., Marks, D. S. and Fowler, D. M.
+Year: 2025
+Title: MaveDB 2024: a curated community database with over seven million variant effects from multiplexed functional assays
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 21
+Short Title: MaveDB 2024: a curated community database with over seven million variant effects from multiplexed functional assays
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 13
+10.1186/s13059-025-03476-y
+Accession Number: WOS:001401215400001
+Keywords: multiplexed assays of variant effect
+maves
+deep mutational scanning
+dms
+variant classification
+functional genomics
+dissection
+enhancers
+Abstract: Multiplexed assays of variant effect (MAVEs) are a critical tool for researchers and clinicians to understand genetic variants. Here we describe the 2024 update to MaveDB (https://www.mavedb.org/) with four key improvements to the MAVE community's database of record: more available data including over 7 million variant effect measurements, an improved data model supporting assays such as saturation genome editing, new built-in exploration and visualization tools, and powerful APIs for data federation and streamlined submission and access. Together these changes support MaveDB's role as a hub for the analysis and dissemination of MAVEs now and into the future.
+Notes: S9g3w
+Times Cited:0
+Cited References Count:57
+URL: <Go to ISI>://WOS:001401215400001
+Author Address: Walter & Eliza Hall Inst Med Res, Bioinformat Div, Parkville, Australia
+Univ Melbourne, Dept Med Biol, Parkville, Australia
+Brotman Baty Inst Precis Med, Seattle, WA 98195 USA
+Univ Washington, Dept Genome Sci, Seattle, WA USA
+Barcelona Inst Sci & Technol, Ctr Genom Regulat CRG, Barcelona, Spain
+Univ Pompeu Fabra, Barcelona, Spain
+Univ Washington, Dept Lab Med & Pathol, Seattle, WA USA
+Walter & Eliza Hall Inst Med Res, Immunol Div, Parkville, Australia
+Univ Melbourne, Dept Microbiol & Immunol, Parkville, Australia
+Univ Freiburg, Dept Comp Sci, Bioinformat Grp, Freiburg, Germany
+CUNY, Grad Ctr, Dept Comp Sci, New York, NY USA
+Seismic Therapeut, Watertown, MA USA
+Harvard Med Sch, Dept Syst Biol, Boston, MA 02115 USA
+Univ Melbourne, Dept Obstet Gynaecol & Newborn Hlth, Parkville, Vic, Australia
+Royal Melbourne Hosp, Dept Clin Immunol & Allergy, Parkville, Australia
+Broad Inst Harvard & MIT, Boston, MA USA
+Univ Washington, Dept Bioengn, Seattle, WA USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3955
+Author: Samadi, Z., Hao, K. and Askary, A.
+Year: 2025
+Title: SMORE: spatial motifs reveal patterns in cellular architecture of complex tissues
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 3
+Short Title: SMORE: spatial motifs reveal patterns in cellular architecture of complex tissues
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 3
+10.1186/s13059-024-03467-5
+Accession Number: WOS:001389118200001
+Keywords: spatial transcriptomics
+neighborhood graphs
+uniform path sampling
+network motifs
+bipolar
+identification
+cells
+Abstract: Deciphering the link between tissue architecture and function requires methods to identify and interpret patterns in spatial arrangement of cells. We present SMORE, an approach to detect patterns in sequential arrangements of cells and examine their associated gene expression specializations. Applied to retina, brain, and embryonic tissue maps, SMORE identifies novel spatial motifs, including one that offers a new mechanism of action for type 1b bipolar cells. Structural signatures detected by SMORE also form a basis for classifying tissues. Together, our method provides a new framework for uncovering spatial complexity in tissue organization and offers novel insights into tissue function.
+Notes: R1k1s
+Times Cited:0
+Cited References Count:61
+URL: <Go to ISI>://WOS:001389118200001
+Author Address: Univ Calif Los Angeles, Dept Mol Cell & Dev Biol, Los Angeles, CA 90095 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3956
+Author: Swiel, Y., Kelso, J. and Peyrégne, S.
+Year: 2025
+Title: Resolving the source of branch length variation in the Y chromosome phylogeny
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 6
+Short Title: Resolving the source of branch length variation in the Y chromosome phylogeny
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 4
+10.1186/s13059-024-03468-4
+Accession Number: WOS:001390534000002
+Keywords: reference bias
+ancient DNA
+y chromosome
+sequence alignment
+molecular dating
+mutation rate
+generation time
+genome sequence
+point mutation
+neanderthal
+populations
+history
+snp
+Abstract: BackgroundGenetic variation in the non-recombining part of the human Y chromosome has provided important insight into the paternal history of human populations. However, a significant and yet unexplained branch length variation of Y chromosome lineages has been observed, notably amongst those that are highly diverged from the human reference Y chromosome. Understanding the origin of this variation, which has previously been attributed to changes in generation time, mutation rate, or efficacy of selection, is important for accurately reconstructing human evolutionary and demographic history.ResultsHere, we analyze Y chromosomes from present-day and ancient modern humans, as well as Neandertals, and show that branch length variation amongst human Y chromosomes cannot solely be explained by differences in demographic or biological processes. Instead, reference bias results in mutations being missed on Y chromosomes that are highly diverged from the reference used for alignment. We show that masking fast-evolving, highly divergent regions of the human Y chromosome mitigates the effect of this bias and enables more accurate determination of branch lengths in the Y chromosome phylogeny.ConclusionWe show that our approach allows us to estimate the age of ancient samples from Y chromosome sequence data and provide updated estimates for the time to the most recent common ancestor using the portion of the Y chromosome where the effect of reference bias is minimized.
+Notes: R3m6g
+Times Cited:0
+Cited References Count:49
+URL: <Go to ISI>://WOS:001390534000002
+Author Address: Max Planck Inst Evolutionary Anthropol, Dept Evolutionary Genet, Leipzig, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3957
+Author: Wan, X., Kong, J., Hu, X. D., Liu, L. L., Yang, Y. P., Li, H., Liu, G. A., Niu, X. C., Chen, F. L., Zhang, D., Zhu, D. H. and Zhang, Y.
+Year: 2025
+Title: SiCLAT: simultaneous imaging of chromatin loops and active transcription in living cells
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 2
+Short Title: SiCLAT: simultaneous imaging of chromatin loops and active transcription in living cells
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 1
+10.1186/s13059-024-03463-9
+Accession Number: WOS:001389169500002
+Keywords: crispr imaging
+non-repetitive DNA and rna imaging
+genetic mouse model
+living primary cell
+3d genome
+enhancer and promoter interaction
+genome
+principles
+provides
+design
+fate
+ctcf
+map
+Abstract: We present SiCLAT, which introduces a dCas9-dCas13d cassette into the mouse genome. This model enables the stable expression of both dCas9 and dCas13 proteins in diverse cell populations, facilitating concurrent labeling of DNA and RNA across various cell types. Using SiCLAT, we accurately labeled chromatin loop anchor interactions and associated gene transcription during myogenic differentiation. This imaging system offers a novel means of directly observing cis-element interactions and the corresponding gene transcription in living primary cells, thus providing real-time imaging for comprehensive mechanistic investigations of dynamic enhancer-promoter or enhancer-enhancer interactions in regulating transcription activation within living cells.
+Notes: R1m1l
+Times Cited:0
+Cited References Count:62
+URL: <Go to ISI>://WOS:001389169500002
+Author Address: Chinese Acad Med Sci, Inst Basic Med Sci, State Key Lab Complex Severe & Rare Dis, Beijing, Peoples R China
+Peking Union Med Coll, Sch Basic Med, Beijing, Peoples R China
+Peking Union Med Coll Hosp, Ctr Biomed Technol Natl Infrastruct Translat Med, State Key Lab Complex Severe & Rare Dis, Beijing, Peoples R China
+Bioland Lab, Guangzhou Regenerat Med & Hlth Guangdong Lab, Guangzhou, Peoples R China
+Shandong Univ Tradit Chinese Med, Expt Ctr, Jinan, Peoples R China
+Shandong Univ Tradit Chinese Med, Key Lab Tradit Chinese Med Class Theory, Minist Educ, Jinan, Peoples R China
+Tsinghua Univ, Ctr Stem Cell Biol & Regenerat Med, Sch Life Sci, MOE,Key Lab Bioinformat,New Cornerstone Sci Lab, Beijing, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3958
+Author: Wang, Y. H., Armendariz, D. A., Wang, L., Zhao, H., Xie, S. Q. and Hon, G. C.
+Year: 2025
+Title: Enhancer regulatory networks globally connect non-coding breast cancer loci to cancer genes
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 17
+Short Title: Enhancer regulatory networks globally connect non-coding breast cancer loci to cancer genes
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 10
+10.1186/s13059-025-03474-0
+Accession Number: WOS:001401198100001
+Keywords: enhancers
+functional genomics
+cancer genomics
+regulatory networks
+breast cancer
+single-cell
+perturb-seq
+genome-wide association
+apoptosis-inducing ligand
+tert promoter mutations
+cell-cycle
+molecular portraits
+fetal-hemoglobin
+expression
+transcription
+protein
+risk
+Abstract: BackgroundGenetic studies have associated thousands of enhancers with breast cancer (BC). However, the vast majority have not been functionally characterized. Thus, it remains unclear how BC-associated enhancers contribute to cancer. ResultsHere, we perform single-cell CRISPRi screens of 3513 regulatory elements associated with breast cancer to measure the impact of these regions on transcriptional phenotypes. Analysis of > 500,000 single-cell transcriptomes in two breast cancer cell lines shows that perturbation of BC-associated enhancers disrupts breast cancer gene programs. We observe BC-associated enhancers that directly or indirectly regulate the expression of cancer genes. We also find one-to-multiple and multiple-to-one network motifs where enhancers indirectly regulate cancer genes. Notably, multiple BC-associated enhancers indirectly regulate TP53. Comparative studies illustrate subtype specific functions between enhancers in ER + and ER - cells. Finally, we develop the pySpade package to facilitate analysis of single-cell enhancer screens. ConclusionsOverall, we demonstrate that enhancers form regulatory networks that link cancer genes in the genome, providing a more comprehensive understanding of the contribution of enhancers to breast cancer development.
+Notes: S9f7g
+Times Cited:0
+Cited References Count:149
+URL: <Go to ISI>://WOS:001401198100001
+Author Address: Univ Texas Southwestern Med Ctr, Cecil H & Ida Green Ctr Reprod Biol Sci, Dallas, TX 75390 USA
+Genentech Inc, 1 DNA Way, South San Francisco, CA 94080 USA
+Univ Texas Southwestern Med Ctr, Dept Obstet & Gynecol, Dept Bioinformat, Div Basic Reprod Biol Res, Dallas, TX 75390 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3959
+Author: Zheng, Y. M., Zheng, Z. H., Rendeiro, A. F. and Cheung, E.
+Year: 2025
+Title: Marsilea: an intuitive generalized paradigm for composable visualizations
+Journal: Genome Biology
+Volume: 26
+Issue: 1
+Date: Jan 6
+Short Title: Marsilea: an intuitive generalized paradigm for composable visualizations
+Alternate Journal: Genome Biol
+ISSN: 1474-760x
+DOI: ARTN 5
+10.1186/s13059-024-03469-3
+Accession Number: WOS:001390534000001
+Abstract: Biological data visualization is challenged by the growing complexity of datasets. Traditional single-data plots or simple juxtapositions often fail to fully capture dataset intricacies and interrelations. To address this, we introduce "cross-layout," a novel visualization paradigm that integrates multiple plot types in a cross-like structure, with a central main plot surrounded by secondary plots for enhanced contextualization and interrelation insights. We also introduce "Marsilea," a Python-based implementation of cross-layout visualizations, available in both programmatic and web-based interfaces to support users of all experience levels. This paradigm and its implementation offer a customizable, intuitive approach to advance biological data visualization.
+Notes: R3m6g
+Times Cited:0
+Cited References Count:13
+URL: <Go to ISI>://WOS:001390534000001
+Author Address: Univ Macau, Canc Ctr, Taipa, Macau, Peoples R China
+Univ Macau, Ctr Precis Med Res & Training, Taipa, Macau, Peoples R China
+Univ Macau, MoE Frontiers Sci Ctr Precis Oncol, Taipa, Macau, Peoples R China
+Univ Macau, Fac Hlth Sci, Taipa, Macau, Peoples R China
+Austrian Acad Sci, CeMM Res Ctr Mol Med, Lazarettgasse 14 AKH BT 25-3, A-1090 Vienna, Austria
+Hong Kong Univ Sci & Technol Guangzhou, Biosci & Biol Engn Thrust, Syst Hub, Guangzhou 511466, Peoples R China
+Univ Vienna, Ludwig Boltzmann Inst Network Med, Augasse 2-6, A-1090 Vienna, Austria
+Language: English
+

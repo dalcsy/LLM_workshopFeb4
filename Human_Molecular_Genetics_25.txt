@@ -1,0 +1,836 @@
+﻿Reference Type:  Journal Article
+Record Number: 3964
+Author: Antonyan, L., Zhang, X., Ni, A. J., Peng, H. S., Alsuwaidi, S., Fleming, P., Zhang, Y., Semenak, A., Macintosh, J., Wu, H. R., Hettige, N. C., Jefri, M. and Ernst, C.
+Year: 2025
+Title: Reciprocal and non-reciprocal effects of clinically relevant SETBP1 protein dosage changes
+Journal: Human Molecular Genetics
+Date: Jan 17
+Short Title: Reciprocal and non-reciprocal effects of clinically relevant SETBP1 protein dosage changes
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf003
+Accession Number: WOS:001397999900001
+Keywords: rare disease
+pp2a
+dosage disorders
+neurodevelopment
+neurodevelopmental disorders
+myeloid-leukemia
+phosphatase 2a
+beta-catenin
+phosphorylation
+akt
+p53
+differentiation
+acetylation
+inhibition
+Abstract: Many genes in the human genome encode proteins that are dosage sensitive, meaning they require protein levels within a narrow range to properly execute function. To investigate if clinically relevant variation in protein levels impacts the same downstream pathways in human disease, we generated cell models of two SETBP1 syndromes: Schinzel-Giedion Syndrome (SGS) and SETBP1 haploinsufficiency disease (SHD), where SGS is caused by too much protein, and SHD is caused by not enough SETBP1. Using patient and sex-matched healthy first-degree relatives from both SGS and SHD SETBP1 cases, we assessed how SETBP1 protein dosage affects downstream pathways in human forebrain progenitor cells. We find that extremes of SETBP1 protein dose reciprocally influence important signalling molecules such as AKT, suggesting that the SETBP1 protein operates within a narrow dosage range and that extreme doses are detrimental. We identified SETBP1 nuclear bodies as interacting with the nuclear lamina and suggest that SETBP1 may organize higher order chromatin structure via links to the nuclear envelope. SETBP1 protein doses may exert significant influence on global gene expression patterns via these SETBP1 nuclear bodies. This work provides evidence for the importance of SETBP1 protein dose in human brain development, with implications for two neurodevelopmental disorders.
+Notes: S4n1j
+Times Cited:0
+Cited References Count:79
+URL: <Go to ISI>://WOS:001397999900001
+Author Address: McGill Univ, Dept Human Genet, Montreal, PQ H3A 1Y2, Canada
+Montreal Neurol Inst Hosp, 3801 Univ St, Montreal, PQ H3A 2B4, Canada
+McGill Univ, Integrated Program Neurosci, Montreal, PQ H3A 1A1, Canada
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3969
+Author: Choi, E. Y., Wolfe, J. H. and Kaler, S. G.
+Year: 2025
+Title: Choroid plexus-targeted viral gene therapy for alpha-mannosidosis, a prototypical neurometabolic lysosomal storage disease
+Journal: Human Molecular Genetics
+Date: Jan 16
+Short Title: Choroid plexus-targeted viral gene therapy for alpha-mannosidosis, a prototypical neurometabolic lysosomal storage disease
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae201
+Accession Number: WOS:001396121100001
+Keywords: choroid plexus
+lysosome
+adeno-associated virus
+alpha-mannosidosis
+enzyme replacement therapy
+central-nervous-system
+cerebrospinal-fluid
+mouse model
+canine model
+phase 1/2
+brain
+transduction
+injection
+mice
+Abstract: The choroid plexuses (CP) are highly vascularized structures that project into the ventricles of the vertebrate brain. The polarized epithelia of the CP produce cerebrospinal fluid by transporting water and ions into the ventricles from the blood and normally secrete a large number of proteins. We assessed the feasibility of selective CP transduction with recombinant adeno-associated virus (rAAV) gene therapy vectors for treatment of lysosomal storage disease (LSD), a broad category of neurometabolic illness associated with significant burdens to affected patients and their families. There are no ideal or complete therapeutic options currently available, especially for the central nervous system manifestations of LSDs. Alpha-mannosidosis (AMD) is an autosomal recessive prototypical LSD caused by deficiency of lysosomal alpha-mannosidase and characterized by cerebellar ataxia, neurocognitive disability, facial and skeletal abnormalities, hearing impairment, and mild immune deficiency. In a murine model of AMD, we compared the biochemical effects of CSF-directed rAAV serotypes 1, 4, 5, 6, and 9. Recombinant AAV1 and rAAV6, two closely related serotypes whose capsid sequences differ by only six amino acids, showed the most robust transduction of CP in mouse brain, consistent with their transduction of CPE in nonhuman primates and cats, as well as in other structures. We found restoration of LAMAN enzyme activity comparable to or higher than AMD heterozygote levels in the brain globally (olfactory bulb, cortex, cerebellum, brainstem). Further IND-generating preclinical experiments will advance rAAV6-LAMAN, which appears to be the most promising choroid plexus-targeting candidate serotype for future clinical translation to treat AMD.
+Notes: S1s9r
+Times Cited:0
+Cited References Count:45
+URL: <Go to ISI>://WOS:001396121100001
+Author Address: Eunice Kennedy Shriver Natl Inst Child Hlth & Huma, Sect Translat Neurosci, NIH, 9000 Rockville Pike, Bethesda, MD 20892 USA
+Childrens Hosp Philadelphia, Res Inst, 502-G Abramson Res Ctr,3615 Civ Ctr Blvd, Philadelphia, PA 19104 USA
+Ohio State Univ, Nationwide Childrens Hosp, Abigail Wexner Res Inst, Ctr Gene Therapy,Coll Med, 630 West 168 th St,Room 10-451, Columbus, OH 43215 USA
+Ohio State Univ, Dept Pediat, Coll Med, 630 West 168 th St,Room 10-451, Columbus, OH 43215 USA
+Columbia Univ, Vagelos Coll Phys & Surg, Dept Pediat, 630 West 168 th St,Room 10-451, New York, NY 10032 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3965
+Author: Daskeviciute, D., Chappell-Maor, L., Sainty, B., Arnaud, P., Iglesias-Platas, I., Simon, C., Okae, H., Arima, T., Vassena, R., Lartey, J. and Monk, D.
+Year: 2025
+Title: Non-canonical imprinting, manifesting as post-fertilization placenta-specific parent-of-origin dependent methylation, is not conserved in humans
+Journal: Human Molecular Genetics
+Date: Jan 17
+Short Title: Non-canonical imprinting, manifesting as post-fertilization placenta-specific parent-of-origin dependent methylation, is not conserved in humans
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf009
+Accession Number: WOS:001397859700001
+Keywords: imprinting
+DNA methylation
+placenta
+pre-implantation embryos
+DNA methylation
+epigenetic mechanisms
+analysis reveals
+mouse
+features
+chromatin
+suggests
+oocytes
+genome
+ehmt2
+Abstract: Genomic imprinting is the parent-of-origin dependent monoallelic expression of genes often associated with regions of germline-derived DNA methylation that are maintained as differentially methylated regions (gDMRs) in somatic tissues. This form of epigenetic regulation is highly conserved in mammals and is thought to have co-evolved with placentation. Tissue-specific gDMRs have been identified in human placenta, suggesting that species-specific imprinting dependent on unorthodox epigenetic establishment or maintenance may be more widespread than previously anticipated. Non-canonical imprinting, reliant on differential allelic H3K27me3 enrichment, has been reported in mouse and rat pre-implantation embryos, often overlapping long terminal repeat (LTR)-derived promoters. These non-canonical imprints lose parental allele-specific H3K27me3 specificity, subsequently gaining DNA methylation on the same allele in extra-embryonic tissues resulting in placenta-specific, somatically acquired maternal DMRs. To determine if similar non-canonical imprinting is present in the human placenta, we interrogated allelic DNA methylation for a selected number of loci, including (i) the human orthologues of non-canonical imprinted regions in mouse and rat, (ii) promoters of human LTR-derived transcripts, and (iii) CpG islands with intermediate placenta-specific methylation that are unmethylated in gametes and pre-implantation embryos. We failed to identify any non-canonical imprints in the human placenta whole villi samples. Furthermore, the assayed genes were shown to be biallelically expressed in human pre-implantation embryos, indicating they are not imprinted at earlier time points. Together, our work reiterates the continued evolution of placenta-specific imprinting in mammals, which we suggest is linked to epigenetic differences during the maternal-to-embryo transition and species-specific integration of retrotransposable elements.
+Notes: S4h7l
+Times Cited:0
+Cited References Count:56
+URL: <Go to ISI>://WOS:001397859700001
+Author Address: Univ East Anglia, Biomed Res Ctr, Sch Biol Sci, Norwich Res Pk,Earlham Rd, Norwich NR4 6PN, England
+Univ Clermont Auvergne, CNRS, Inserm, GReD, 49 Bd Francois Mitterrand, F-63001 Clermont Ferrand, France
+Inst Recerca, C Sta Rosa 39, Barcelona 08950, Spain
+Neonatal Res, Norwich, England
+Norwich Univ Hosp NHS Fdn Trust, Norwich NR4 7UY, England
+Carlos Simon Fdn, Rda Narcis Monturiol 11,Bloque C, Valencia 46980, Spain
+Univ Valencia, Dept Obstet & Gynecol, Av Blasco Ibanez 15, Valencia 46012, Spain
+INCLIVA, Av Blasco Ibanez 15, Valencia 46012, Spain
+Kumamoto Univ, Inst Mol Embryol & Genet, Dept Trophoblast Res, Kumamoto 8600811, Japan
+Tohoku Univ, Grad Sch Med, Environm & Genome Res Ctr, Dept Informat Genet, Sendai 9808575, Japan
+Fecundis, C Baldoro & Reixac 10-12, Barcelona 08028, Spain
+Dept Obstet & Gynaecol, Norwich, England
+Bellvitge Biomed Res Inst, Avinguda Granvia Hospitalet 199, Barcelona 08908, Spain
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3961
+Author: Han, W. Q., Yang, R., Chen, X., Chen, Y., Zhang, T. Y. and Ma, J.
+Year: 2025
+Title: A novel frameshift mutation of SOX10 identified in Waardenburg syndrome type 2
+Journal: Human Molecular Genetics
+Date: Jan 24
+Short Title: A novel frameshift mutation of SOX10 identified in Waardenburg syndrome type 2
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf010
+Accession Number: WOS:001403553400001
+Keywords: waardenburg syndrome
+whole exome sequencing
+sox10
+mutation
+Abstract: Waardenburg syndrome type 2 (WS2) is an autosomal dominant disorder characterized by congenital sensorineural hearing loss, blue iris, and abnormal pigmentation of the hair and skin. WS2 is genetically heterogeneous, often resulting from pathogenic mutations in SOX10 gene. We identified a novel heterozygous frameshift mutation in SOX10 (NM_006941.4: c.22delT, p.S8Rfs*5) in a two-generation Chinese family with WS2 through whole exome sequencing. This mutation was present in both the proband, who exhibited typical features of hearing loss and pigmentation abnormalities, and his father, who showed only mild facial features. Quantitative real-time PCR revealed that the frameshift mutation leads to a reduced expression levels of SOX10 in the peripheral blood of mutation carriers. Our findings expand the spectrum of pathogenic mutations in SOX10 associated with WS2, providing valuable information for prenatal diagnosis and preimplantation screening, and underscore the role of genetic diagnosis in identifying atypical patients.
+Notes: T2r8t
+Times Cited:0
+Cited References Count:17
+URL: <Go to ISI>://WOS:001403553400001
+Author Address: Fudan Univ, Eye & ENT Hosp, ENT Inst, Dept Facial Plast & Reconstruct Surg, 83 Fenyang Rd, Shanghai 200031, Peoples R China
+Fudan Univ, NHC Key Lab Hearing Med, 83 Fenyang Rd, Shanghai 200031, Peoples R China
+Fudan Univ, Inst Med Genet & Genom, 131 Dongan Rd, Shanghai 200032, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3979
+Author: Huang, J. Y., Liu, M., Furey, A., Rahman, P. and Zhai, G. J.
+Year: 2025
+Title: Transcriptomic analysis of human cartilage identified potential therapeutic targets for hip osteoarthritis
+Journal: Human Molecular Genetics
+Date: Jan 8
+Short Title: Transcriptomic analysis of human cartilage identified potential therapeutic targets for hip osteoarthritis
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae200
+Accession Number: WOS:001391797400001
+Keywords: osteoarthritis
+hip
+transcriptomics
+gene expression
+expression profiling reveals
+rheumatoid-arthritis
+gene
+susceptibility
+degeneration
+syndecan-1
+sparc
+inflammation
+polymorphism
+package
+Abstract: Cartilage degradation is the hallmark of osteoarthritis (OA). The purpose of this study was to identify and validate differentially expressed genes (DEGs) in human articular cartilage that could serve as potential therapeutic targets for hip OA. We performed transcriptomic profiling in a discovery cohort (12 OA-free and 72 hip OA-affected cartilage) and identified 179 DEGs between OA-free and OA-affected cartilage after correcting for multiple testing (P < 2.97 x 10-6). Pathway and network analyses found eight hub genes to be associated with hip OA (ASPN, COL1A2, MXRA5, P3H1, PCOLCE, SDC1, SPARC, and TLR2), which were all confirmed using qPCR in a validation cohort (36 OA-free and 62 hip OA-affected cartilage) (P < 6.25 x 10-3). Our data showed that dysregulation of extracellular matrix formation and imbalance in the proportion of collagen chains may contribute to the development of hip OA, and SDC1 could be a promising potential therapeutic target. These findings provided a better understanding of the molecular mechanisms for hip OA and may assist in developing targeted treatment strategies.
+Notes: R5i9z
+Times Cited:0
+Cited References Count:59
+URL: <Go to ISI>://WOS:001391797400001
+Author Address: Mem Univ Newfoundland, Fac Med, Div Biomed Sci, Human Genet & Genom, 300 Prince Philip Dr, St John, NF A1B 3V6, Canada
+Mem Univ Newfoundland, Fac Med, Discipline Orthopaed Surg, 300 Prince Philip Dr, St John, NF A1B 3V6, Canada
+Govt Newfoundland & Labrador, Off Premier, 100 Prince Philip Dr, St John, NF A1B 4J6, Canada
+Mem Univ Newfoundland, Fac Med, Discipline Med, 300 Prince Philip Dr, St John, NF A1B 3V6, Canada
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3972
+Author: Jennings, K., Lindquist, D., Poonia, A., Schoser, B., Schneider-Gold, C., Timchenko, N. A. and Timchenko, L.
+Year: 2025
+Title: The role of CNBP in brain atrophy and its targeting in myotonic dystrophy type 2
+Journal: Human Molecular Genetics
+Date: Jan 14
+Short Title: The role of CNBP in brain atrophy and its targeting in myotonic dystrophy type 2
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf002
+Accession Number: WOS:001395590200001
+Keywords: myotonic dystrophy type 2
+brain atrophy
+cnbp
+ampk activator
+binding-protein binds
+nuclear foci
+znf9
+rna
+expression
+expansion
+repeat
+dm1
+translation
+metabolism
+Abstract: Myotonic Dystrophy type 2 (DM2) is a multisystem disease affecting many tissues, including skeletal muscle, heart, and brain. DM2 is caused by unstable expansion of CCTG repeats in an intron 1 of a gene coding for cellular nuclear binding protein (CNBP). The expanded CCTG repeats cause DM2 pathology due to the accumulation of RNA CCUG repeats, which affect RNA processing in patients' cells. We have previously shown that mutant CCUG repeats reduce CNBP protein in DM2 patients. Reducing Cnbp in Cnbp KO mouse model causes late skeletal muscle atrophy. In this study, we examined if the reduction of Cnbp affects the Central Nervous System (CNS). MRI and DTI analyses showed that total brain volume and grey matter are reduced in Cnbp KO mice, while mean, radial and axonal brain diffusivity is increased. The morphological changes in the brains of Cnbp KO mice are accompanied by reduced stereotypic behavior, anxiety and neuromotor defects. These findings suggest that the reduction of CNBP contributes to CNS pathology in DM2. Since CNBP stability is regulated by pAMPK-dependent phosphorylation, we examined protein levels of pAMPK in DM2 cells and found that the active pAMPK is reduced in DM2. Interaction of CNBP with pAMPK and stability of CNBP protein are also decreased in DM2. Our data show that a small molecule AMPK activator A769662 corrects CNBP stability and normalizes CNBP targets in DM2 fibroblasts. Thus, activators of AMPK could potentially be developed as therapeutics to correct CNBP and reduce muscle and brain atrophies in DM2.
+Notes: S0y5z
+Times Cited:0
+Cited References Count:54
+URL: <Go to ISI>://WOS:001395590200001
+Author Address: Cincinnati Childrens Hosp, Div Infect Dis, 3333 Burnet Ave, Cincinnati, OH 45229 USA
+Cincinnati Childrens Hosp Med Ctr, Imaging Res Ctr, 3333 Burnet Ave, Cincinnati, OH 45229 USA
+Univ Cincinnati, Dept Biomed Engn, 2600 Clifton Ave, Cincinnati, OH 45221 USA
+Univ Cincinnati, 2600 Clifton Ave, Cincinnati, OH 45221 USA
+LMU Clin, Friedrich Baur Inst, Dept Neurol, Ziemssenstr,1, D-80336 Munich, Germany
+Ruhr Univ Bochum, St Josef Hosp, Dept Neurol, Gudrunstr 56, D-44791 Bochum, Germany
+Cincinnati Childrens Hosp, Dept Surg, 3333 Burnet Ave, Cincinnati, OH 45229 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3962
+Author: Kuruva, C. S., Manczak, M., Yin, X. L., Ogunmokun, G., Reddy, A. P. and Reddy, P. H.
+Year: 2025
+Title: Expression of Concern: Aqua-soluble DDQ reduces the levels of Drp1 and Aβ and inhibits abnormal interactions between Aβ and Drp1 and protects Alzheimer's disease neurons from Aβ- and Drp1-induced mitochondrial and synaptic toxicities
+Journal: Human Molecular Genetics
+Date: Jan 22
+Short Title: Expression of Concern: Aqua-soluble DDQ reduces the levels of Drp1 and Aβ and inhibits abnormal interactions between Aβ and Drp1 and protects Alzheimer's disease neurons from Aβ- and Drp1-induced mitochondrial and synaptic toxicities
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae204
+Accession Number: WOS:001402729000001
+Notes: T1m2u
+Times Cited:0
+Cited References Count:1
+URL: <Go to ISI>://WOS:001402729000001
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3960
+Author: Langhammer, F., Gregor, A., Ntamati, N. R., Ekici, A. B., Winner, B., Nevian, T. and Zweier, C.
+Year: 2025
+Title: Deregulated ion channels contribute to RHOBTB2-associated developmental and epileptic encephalopathy
+Journal: Human Molecular Genetics
+Date: Jan 24
+Short Title: Deregulated ion channels contribute to RHOBTB2-associated developmental and epileptic encephalopathy
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae183
+Accession Number: WOS:001403567200001
+Keywords: developmental and epileptic encephalopathy
+ipsc derived neurons
+rhobtb2
+drosophila
+genetic interaction
+intellectual disability
+ligases nedd4
+mutations
+ubiquitin
+rhobtb2
+expression
+protein
+cerebellar
+trafficking
+drosophila
+Abstract: While de novo missense variants in the BTB domains of atypical RhoGTPase RHOBTB2 cause a severe developmental and epileptic encephalopathy, de novo missense variants in the GTPase domain or bi-allelic truncating variants are associated with more variable neurodevelopmental and seizure phenotypes. Apart from the observation of RHOBTB2 abundance resulting from BTB-domain variants and increased seizure susceptibility in Drosophila overexpressing RhoBTB, our knowledge on RHOBTB2-related pathomechanisms is limited. We now found enrichment for ion channels among the differentially expressed genes from RNA-Seq on fly heads overexpressing RhoBTB. Subsequent genetic interaction experiments confirmed a functional link between RhoBTB and paralytic, the orthologue of human sodium channels, including epilepsy associated SCN1A, in vivo. We then performed patch-clamp recordings on mature neurons differentiated from human induced pluripotent stem cells with either homozygous frameshifts or patient-specific heterozygous missense variants in the GTPase or the BTB domains. This revealed significantly altered neuronal activity and excitability resulting from BTB domain variants but not from GTPase domain variants or upon complete loss of RHOBTB2. Our study indicates a role of deregulated ion channels in the pathogenesis of RHOBTB2-related developmental and epileptic encephalopathy and points to specific pathomechanisms underlying the observed genotype-phenotype correlations regarding variant zygosity, location and nature.
+Notes: T2s4b
+Times Cited:0
+Cited References Count:74
+URL: <Go to ISI>://WOS:001403567200001
+Author Address: Univ Bern, Dept Human Genet, Inselspital Bern, Freiburgstr 15, CH-3010 Bern, Switzerland
+Univ Bern, Dept BioMed Res DBMR, CH-3010 Bern, Switzerland
+Univ Bern, Grad Sch Cellular & Biomed Sci, CH-3010 Bern, Switzerland
+Univ Bern, Dept Physiol, Buhlpl 5, CH-3012 Bern, Switzerland
+Friedrich Alexander Univ Erlangen Nurnberg, Inst Human Genet, Kussmaulallee 4, D-91054 Erlangen, Germany
+Friedrich Alexander Univ Erlangen Nurnberg, Dept Stem Cell Biol, Kussmaulallee 4, D-91054 Erlangen, Germany
+FAU Erlangen Nurnberg, Univ Hosp Erlangen, Ctr Rare Dis Erlangen ZSEER, Kussmaulallee 4, D-91054 Erlangen, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3968
+Author: Lu, L. J., Wang, L. J., Wang, H. H. and Yang, M. J.
+Year: 2025
+Title: Regulatory role of miR-128-2-5p in serum exosomes on COL6A2 expression and postmenopausal osteoporosis
+Journal: Human Molecular Genetics
+Date: Jan 16
+Short Title: Regulatory role of miR-128-2-5p in serum exosomes on COL6A2 expression and postmenopausal osteoporosis
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae147
+Accession Number: WOS:001396684000001
+Keywords: postmenopausal osteoporosis
+bone metabolism
+serum-derived exosomes
+osteoblasts
+adhesion
+adhesion
+Abstract: This study investigates the influence of miR-128-2-5p within serum-derived exosomes (Exos) on COL6A2 expression and its implications in postmenopausal osteoporosis (POMP). Utilizing bioinformatics analysis, we identified 1317 differentially expressed genes (DEGs), primarily enriched in the focal adhesion pathway-a critical regulator of osteoblast adhesion. A significant gene, COL6A2, emerged as notably downregulated in POMP, possessing potential as a diagnostic marker. Predictive analysis linked the upstream miRNA miR-128-2-5p, highly enriched in Exos, with the regulation of COL6A2. Experimentally, Exos from POMP patients demonstrated elevated miR-128-2-5p levels, which inhibited COL6A2 expression in vitro, reducing osteoblast adhesion and exacerbating osteoporotic conditions. These findings highlight the pivotal role of exosomal miR-128-2-5p in bone metabolism, suggesting a novel molecular mechanism and a potential therapeutic target in POMP.
+Notes: S2o6b
+Times Cited:0
+Cited References Count:39
+URL: <Go to ISI>://WOS:001396684000001
+Author Address: Ningbo Univ, Li Huili Hosp, Ningbo Med Ctr, Dept Orthoped, 57 Xingning Rd, Ningbo 315040, Zhejiang, Peoples R China
+Jilin Univ, Hosp 1, Dept Pediat, 71 Xinmin St, Changchun 130021, Jilin, Peoples R China
+Zhengzhou Univ, Zhengzhou Cent Hosp, Dept Orthopaed, 195 Tongbai Rd, Zhengzhou 450007, Peoples R China
+Jiujiang 1 Peoples Hosp, Dept Orthopaed, 48 Taling South Rd, Jiujiang 332000, Jiangxi, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3978
+Author: Maric, T., Castillo-Madeen, H., Klaric, M. L., Barisic, A., Trgovec-Greif, L., Murphy, M. W., Juchnewitsch, A. G., Lillepea, K., Dutta, A., Zunic, L., Stendahl, A. M., Punab, M., Pomm, K., Mendoza, D. M., Lopes, A. M., Sorgic, A. M., Vugrek, O., Gonçalves, J., Almstrup, K., Aston, K., Beluzic, R., Jezek, D., Bertosa, B., Laan, M., Bojanac, A. K., Conrad, D. F. and Barbalic, M.
+Year: 2025
+Title: Diminished DNA binding affinity of DMRT1 caused by heterozygous DM domain mutations is a cause of male infertility
+Journal: Human Molecular Genetics
+Date: Jan 8
+Short Title: Diminished DNA binding affinity of DMRT1 caused by heterozygous DM domain mutations is a cause of male infertility
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae197
+Accession Number: WOS:001391793700001
+Keywords: genetics
+infertility
+exome sequencing
+dmrt1
+genetic-variants
+association
+guidelines
+diagnosis
+disorder
+Abstract: The most severe form of male infertility is idiopathic non-obstructive azoospermia (NOA), a complete sperm absence in the ejaculate. We performed exome sequencing in the Croatian infertile brothers with NOA and found a variant in DMRT1 (Doublesex and mab-3 related transcription factor 1) gene that was further assessed by the EMSA assay and molecular dynamic simulations. We additionally screened for DMRT1 mutations in 1940 infertile men diagnosed with spermatogenic failure, 644 normozoospermic controls, and 105 females with primary ovarian insufficiency (POI) recruited to the GEnetics of Male INfertility Initiative (GEMINI) or Estonian Andrology (ESTAND) cohorts. DMRT1 p.Pro74Leu (chr9:g.842059C > T) variant was detected in infertile brothers in the highly conserved position within the DNA binding DM domain of the protein. EMSA assay showed reduced DNA binding of DMRT1(P74L) and molecular dynamic simulations showed differences in structural and dynamical properties between the wild type protein and DMRT1P74L. Plausible disease-causing DMRT1 variants were only identified in infertile men (13/1940; 0.67%), and none in 639 fertile controls. Burden testing showed an excess of rare deleterious DM domain mutations in the infertility cohort compared to gnomAD v.4.0 population-based controls (Fisher's exact test, p = 1.44 x 10(-5)). Three rare deleterious variants in DMRT1 were found in 104 cases of POI. The findings of this study strengthen the evidence of DMRT1 variants being a causal factor for male infertility and provide the distribution of likely pathogenic variants across the gene. This is also the first study to suggest that DMRT1 variants may also be linked to POI.
+Notes: R5i8p
+Times Cited:0
+Cited References Count:45
+URL: <Go to ISI>://WOS:001391793700001
+Author Address: Univ Zagreb, Sch Med, Sci Ctr Excellence Reprod & Regenerat Med, Salata 2, Zagreb 10000, Croatia
+Univ Zagreb, Sch Med, Dept Med Biol, Salata 2, Zagreb 10000, Croatia
+ONPRC, Div Genet, 505 N W 185th Ave, Beaverton, OR USA
+Oregon Hlth & Sci Univ, 505 N W 185th Ave, Beaverton, OR USA
+Genom Ltd, Il 190, Zagreb 10000, Croatia
+Univ Zagreb, Fac Sci, Dept Chem, Horvatovac 102A, Zagreb 10000, Croatia
+Rudjer Boskovic Inst, Bijenicka Cesta 54, Zagreb 10000, Croatia
+Univ Minnesota, Dept Genet Cell Biol & Dev, 321Church St SE, Minneapolis, MN USA
+Univ Tartu, Inst Biomed & Translat Med, Ravila tn 19, Tartu, Estonia
+Tartu Univ Hosp, Androl Clin, Ludvig Puusepa 8, Tartu, Estonia
+Univ Autonoma Barcelona, Androl Dept, Bellaterra 08193, Barcelona, Spain
+Univ Porto, P-4099002 Porto, Portugal
+Univ Hosp Zagreb, Ul Mije Kispat 12, Zagreb 10000, Croatia
+INSA, Dept Genet Humana, Av Padre Cruz, P-1649016 Lisbon, Portugal
+Copenhagen Univ Hosp, Rigshosp, Blegdamsvej 9, Copenhagen, Denmark
+Univ Copenhagen, Fac Hlth & Med Sci, Dept Cellular & Mol Med, Blegdamsvej 3B, Copenhagen, Denmark
+Univ Utah, Sch Med, Androl & IVF Lab, 675 Arapeen Dr 201 Suite 201, Salt Lake City, UT USA
+Univ Split, Fac Sci, Rudera Boskovic 33, Split 21000, Croatia
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3981
+Author: Moriya, A., Inoue, S. I., Saitow, F., Keitoku, M., Suzuki, N., Oike, E., Urano, E., Matsumoto, E., Suzuki, H., Aoki, Y. and Ohnishi, H.
+Year: 2025
+Title: Q241R mutation of Braf causes neurological abnormalities in a mouse model of cardio-facio-cutaneous syndrome, independent of developmental malformations
+Journal: Human Molecular Genetics
+Date: Jan 8
+Short Title: Q241R mutation of Braf causes neurological abnormalities in a mouse model of cardio-facio-cutaneous syndrome, independent of developmental malformations
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae196
+Accession Number: WOS:001390713600001
+Keywords: cardio-facio-cutaneous (cfc) syndrome
+braf
+ras/mapk signaling pathway
+brain
+legius syndrome
+ras pathway
+b-raf
+protein
+mice
+expression
+activation
+knockout
+deficits
+domain
+Abstract: Constitutively active mutants of BRAF cause cardio-facio-cutaneous (CFC) syndrome, characterized by growth and developmental defects, cardiac malformations, facial features, cutaneous manifestations, and mental retardation. An animal model of human CFC syndrome, the systemic BrafQ241R/+ mutant mouse, has been reported to exhibit multiple CFC syndrome-like phenotypes. In this study, we analyzed the effects of Braf mutations on neural function, separately from their effects on developmental processes. To this end, we generated Braf mutant mice expressing BRAFQ241R specifically in mature excitatory neurons (n-BrafQ241R/+). We found no growth retardation or cardiac malformations in n-BrafQ241R/+ mice, indicating normal development. Behavioral analysis revealed that n-BrafQ241R/+ mice exhibited reduced home cage activity and learning disability, which were similar to those of systemic BrafQ241R/+ mice. The active form of ERK was increased in the hippocampus of n-BrafQ241R/+ mice, whereas basal synaptic transmission and synaptic plasticity in hippocampal Schaffer collateral-CA1 synapses seems to be normal. Transcriptome analysis of the hippocampal tissue revealed significant changes in the expression of genes involved in regulation of the RAS/mitogen-activated protein kinase (MAPK) signaling pathway, synaptic function and memory formation. These data suggest that the neuronal dysfunction observed in the systemic CFC mouse model is due to the disruption of homeostasis of the RAS/MAPK signaling pathway by the activated Braf mutant after maturation, rather than abnormal development of the brain. A similar mechanism may be possible in human CFC syndrome.
+Notes: R3t4w
+Times Cited:0
+Cited References Count:82
+URL: <Go to ISI>://WOS:001390713600001
+Author Address: Gunma Univ, Grad Sch Hlth Sci, Dept Lab Sci, 3-39-22 Showa Machi, Maebashi, Gunma 3718514, Japan
+Tohoku Univ, Grad Sch Med, Div Mol Physiol & Metab, 2-1 Seiryo Machi,Aoba ku, Sendai 9808575, Japan
+Nippon Med Sch, Grad Sch Med, Dept Pharmacol, 1-1-5 Sendagi,Bunkyo Ku, Tokyo 1138602, Japan
+Gunma Univ, Sch Sci & Technol, 1-5-1 Tenjin Chou, Kiryu, Gunma 3768515, Japan
+Tohoku Univ, Sch Med, Dept Med Genet, 1-1 Seiryo Machi,Aoba Ku, Sendai, Miyagi 9808574, Japan
+Gunma Univ, Ctr Food Sci & Wellness, 4-2 Aramaki Machi, Maebashi, Gunma 3718510, Japan
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3971
+Author: Nair, N. N., Kline, R. A., Boyd, I., Anikumar, M., Thomson, A., Lamont, D. J., Gray, G. A., Wishart, T. M. and Murray, L. M.
+Year: 2025
+Title: Alterations in cardiac function correlate with a disruption in fatty acid metabolism in a mouse model of SMA
+Journal: Human Molecular Genetics
+Date: Jan 15
+Short Title: Alterations in cardiac function correlate with a disruption in fatty acid metabolism in a mouse model of SMA
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf006
+Accession Number: WOS:001395775000001
+Keywords: heart
+spinal muscular atrophy
+proteomics
+lipid
+metabolism
+spinal muscular-atrophy
+defects
+onset
+mice
+Abstract: Spinal Muscular Atrophy is an autosomal dominant disease caused by mutations and deletions within the SMN1 gene, with predominantly childhood onset. Although primarily a motor neuron disease, defects in non-neuronal tissues are described in both patients and mouse models. Here, we have undertaken a detailed study of the heart in the Smn2B/- mouse models of SMA, and reveal a thinning of the ventriclar walls as previously described in more severe mouse models of SMA. However most structural changes are resolved by accounting for the smaller body size of the SMA mouse, as was also confirmed in the SMN triangle 7 model. Echocardiography revealed increased systolic function, which was particularly pronounced in subsets of mice and an increase in global longitudinal strain, collectively indicative of increased cardiac stress in the Smn2B/- mouse model. We have used TMT proteomics to perform a longitudinal study of the proteome of the hearts of Smn2B/- mice and reveal a progressive dysregulation of LXR/RXR signalling which is a regulator of lipid metabolism. We further show consistent perturbations in lipid metabolism in the Smn2B/-, Smn-/-;SMN2;Smn Delta 7and Smn Delta 7/Delta 7;SMN2 mouse models of SMA on the day of birth. This work indicates that although structural changes in the heart can be overstated by failing to account for body size, there are functional defects which could predispose the heart to subsequent failure. We identify a common molecular signature across mouse models pointing to a dysregulation in lipid metabolism, and suggest that manipulation of LXR/RXR signalling offers an opportunity to impact upon these pathways.
+Notes: S1f6x
+Times Cited:0
+Cited References Count:54
+URL: <Go to ISI>://WOS:001395775000001
+Author Address: Univ Edinburgh, Ctr Discovery Brain Sci, Hugh Robson Bldg, Edinburgh EH8 9XD, Scotland
+Univ Edinburgh, Euan McDonald Ctr Motor Neuron Dis Res, Hugh Robson Bldg, Edinburgh EH8 9XD, Scotland
+Univ Edinburgh, Roslin Inst, Royal Dick Sch Vet Studies, Easter Bush Campus, Midlothian EH25 9RG, Scotland
+Univ Edinburgh, Queens Med Res Inst, Ctr Cardiovasc Sci, 47 Little France Crescent, Edinburgh EH16 4TJ, Scotland
+Univ Dundee, Sch Life Sci, FingerPrints Prote Facil, Dow St, Dundee DD1 5EH, Scotland
+Nottingham Trent Univ, Ctr Syst Hlth & Integrated Metab Res, Clifton Blvd, Nottingham NG1 4GG, England
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3967
+Author: Pamsary, S. B. A., Esmaeili, F., Dehghanian, F. and Bahadori, M. H.
+Year: 2025
+Title: Expression variation of long noncoding RNAs in dopaminergic cells-derived from stem cells and their MPP
+ induced PD models
+Journal: Human Molecular Genetics
+Date: Jan 17
+Short Title: Expression variation of long noncoding RNAs in dopaminergic cells-derived from stem cells and their MPP
+ induced PD models
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae192
+Accession Number: WOS:001397659600001
+Keywords: lncrnas
+parkinson's disease
+dopaminergic neurons
+stem cell differentiation
+p19 cells
+parkinsons-disease
+substantia-nigra
+mouse model
+apoptosis
+differentiation
+Abstract: Parkinson's disease (PD) is the second most prevalent neurodegenerative disorder characterized by the progressive loss of nigrostriatal dopaminergic neurons (DA) which can be caused by environmental and genetic factors. lncRNAs have emerged as an important regulatory layer in neurodegenerative disorders, including PD. In this study, we investigated and validated lncRNAs that may serve as diagnostic or therapeutic targets for PD. Key genes associated with midbrain and DA cells were screened by differential gene expression analysis on GSE213100 dataset and candidate lncRNAs were selected for further examination. P19 cells were differentiated into DA cells and received treatment with MPP+ to induce PD-like cytotoxic events, which were confirmed by light microscopy, RT-qPCR, immunofluorescence and flow cytometry. Then, the cells were used to investigate the changes of lncRNAs Malat1, Norad, Snhg1 and Meg3. Here we found that the neuronal phenotype was mainly observed on the 12th day of differentiation and the number of DA markers significantly decreased in PD model cells compared with the control group. Moreover, the expression levels of Meg3, Norad, and Snhg1 were decreased by MPP+ whereas Malat1 level was noticeably higher in MPP+ cells compared to DA cells and the control group. In conclusion, the expression level of lncRNAs was able to show a significant difference between differentiated dopaminergic cells and their Parkinsonian model, thereby improving our understanding of the molecular pathogenesis of PD.
+Notes: S4a0y
+Times Cited:0
+Cited References Count:48
+URL: <Go to ISI>://WOS:001397659600001
+Author Address: Univ Isfahan, Fac Biol Sci & Technol, Dept Plant & Anim Biol, Azadi Sq, Esfahan 8174673441, Iran
+Guilan Univ Med Sci, Dept Histol & Embryol, Parastar St, Rasht 1311141937, Iran
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3963
+Author: Prizment, A., Standafer, A., Qu, C. H., Beutel, K. M., Wang, S., Huang, W. Y., Lindblom, A., Pearlman, R., Van Guelpen, B., Wolk, A., Buchanan, D. D., Grant, R. C., Schmit, S. L., Platz, E. A., Joshu, C. E., Couper, D. J., Peters, U., Starr, T. K., Scott, P. and Pankratz, N.
+Year: 2025
+Title: Functional variants in the cystic fibrosis transmembrane conductance regulator (CFTR) gene are associated with increased risk of colorectal cancer
+Journal: Human Molecular Genetics
+Date: Jan 17
+Short Title: Functional variants in the cystic fibrosis transmembrane conductance regulator (CFTR) gene are associated with increased risk of colorectal cancer
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf007
+Accession Number: WOS:001397859600001
+Keywords: colorectal cancer
+heterozygous cftr variants
+rare variant burden test
+haploinsufficiency
+whole exome sequencing data
+atherosclerosis risk
+identification
+epidemiology
+communities
+mutations
+frequency
+resource
+domain
+Abstract: Background Individuals with cystic fibrosis (CF; a recessive disorder) have an increased risk of colorectal cancer (CRC). Evidence suggests individuals with a single CFTR variant may also have increased CRC risk.Methods Using population-based studies (GECCO, CORECT, CCFR, and ARIC; 53 785 CRC cases and 58 010 controls), we tested for an association between the most common CFTR variant (Phe508del) and CRC risk. For replication, we used whole exome sequencing data from UK Biobank (UKB; 5126 cases and 20 504 controls matched 4:1 based on genetic distance, age, and sex), and extended our analyses to all other heterozygous CFTR variants annotated as CF-causing.Results In our meta-analysis of GECCO-CORECT-CCFR-ARIC, the odds ratio (OR) for CRC risk associated with Phe508del was 1.11 (P = 0.010). In our UKB replication, the OR for CRC risk associated with Phe508del was 1.28 (P = 0.002). The sequencing data from UKB also revealed an association between the presence of any other single CF-causing variant (excluding Phe508del) and CRC risk (OR = 1.33; P = 0.030). When stratifying CFTR variants by functional class, class I variants (no protein produced) had a stronger association (OR = 1.77; p = 0.002), while class II variants (misfolding and retention of the protein in the endoplasmic reticulum) other than Phe508del (OR = 1.75; p = 0.107) had similar effect size as Phe508del, and variants in classes III-VI had non-significant ORs less than 1.0 and/or were not present in cases.Conclusions CF-causing heterozygous variants, especially class I variants, are associated with a modest but statistically significant increased CRC risk. More research is needed to explain the biology underlying these associations.
+Notes: S4h7k
+Times Cited:0
+Cited References Count:60
+URL: <Go to ISI>://WOS:001397859600001
+Author Address: Univ Minnesota, Lab Med & Pathol, 420 Delaware St SE, Minneapolis, MN 55455 USA
+Univ Minnesota, Masonic Canc Ctr, 420 Delaware St SE, Minneapolis, MN 55455 USA
+Fred Hutchinson Canc Res Ctr, Publ Hlth Sci Div, 1100 Fairview Ave N, Seattle, WA 98019 USA
+NCI, Div Canc Epidemiol & Genet, NIH, 9609 Med Ctr Dr,MSC 9776, Bethesda, MD 20892 USA
+Karolinska Inst, Dept Mol Med & Surg, K1 Mol Med & kirurgi, K1 MMK Klin Genet, S-17176 Stockholm, Sweden
+Karolinska Univ Hosp, Dept Clin Genet, Eugeniavagen 3, S-17164 Solna, Sweden
+Ohio State Univ, Dept Internal Med, Div Human Genet, Comprehens Canc Ctr, 2012 Kenny Rd, Columbus, OH 43221 USA
+Umea Univ, Dept Radiat Sci, Oncol Unit, NUS,Norrlands universitetssjukhus, 27C, Malpunkt QC11, S-90185 Umea, Sweden
+Karolinska Inst, Inst Environm Med, C6 Inst miljomed, C6 CVD NUT EPI Wolk, S-17177 Stockholm, Sweden
+Univ Melbourne, Ctr Canc Res, Dept Clin Pathol, 305 Grattan St, Melbourne, Vic 3010, Australia
+Univ Toronto, UHN Princess Margaret Canc Ctr, 7-811 700 Univ Ave, Toronto, ON M5G 1X6, Canada
+Cleveland Clin, Genom Med Inst, 9500 Euclid Ave,Mail Code NE50, Cleveland, OH 44195 USA
+Case Comprehens Canc Ctr, Populat & Canc Prevent Program, 10900 Euclid Ave, Cleveland, OH 44106 USA
+Johns Hopkins Bloomberg Sch Publ Hlth, Dept Epidemiol, 615 N Wolfe St, Baltimore, MD 21205 USA
+Sidney Kimmel Comprehens Canc Ctr Johns Hopkins, 615 N Wolfe St, Baltimore, MD 21205 USA
+Univ North Carolina Chapel Hill, Dept Biostat, 123 W Franklin St,Suite 450,CB 8030, Chapel Hill, NC 27516 USA
+Univ Minnesota, Med Sch, Dept Obstet & Gynecol, 515 Delaware St SE, Minneapolis, MN 55455 USA
+Univ Minnesota, Med Sch Duluth, Dept Biomed Sci, 1035 Univ Dr, Duluth, MN 55812 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3973
+Author: Singh, A., Bocher, O. and Zeggini, E.
+Year: 2025
+Title: Insights into the molecular underpinning of type 2 diabetes complications
+Journal: Human Molecular Genetics
+Date: Jan 14
+Short Title: Insights into the molecular underpinning of type 2 diabetes complications
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae203
+Accession Number: WOS:001395594800001
+Keywords: type 2 diabetes complications
+transcriptomics
+epigenomics
+proteomics
+metabolomics
+genome-wide association
+coronary-heart-disease
+glomerular-filtration-rate
+all-cause mortality
+renal-disease
+cardiovascular-disease
+oxidative stress
+glycemic control
+acid-metabolism
+genetic variant
+Abstract: Type 2 diabetes (T2D) complications pose a significant global health challenge. Omics technologies have been employed to investigate these complications and identify the biological pathways involved. In this review, we focus on four major T2D complications: diabetic kidney disease, diabetic retinopathy, diabetic neuropathy, and cardiovascular complications. We discuss advancements in omics research, summarizing findings from genetic, epigenomic, transcriptomic, proteomic, and metabolomic studies across different ancestries and disease-relevant tissues. We stress the importance of integrating multi-omics techniques to elucidate the biological mechanisms underlying T2D complications and advocate for ancestrally diverse studies. Ultimately, these insights will improve risk prediction for T2D complications and inform translation strategies.
+Notes: S0y7t
+Times Cited:0
+Cited References Count:137
+URL: <Go to ISI>://WOS:001395594800001
+Author Address: Tech Univ Munich TUM, TUM Sch Med & Hlth, Grad Sch Expt Med & Hlth Sci, Ismaninger Str 22, D-81675 Munich, Germany
+Helmholtz Zentrum Munchen Deutsch Forschungszentru, Inst Translat Genom, D-85764 Neuherberg, Germany
+Helmholtz Zentrum Munchen German Res Ctr Environm, Munich Sch Data Sci MUDS, Ingolstadter Landstr 1, D-85764 Neuherberg, Germany
+Tech Univ Munich, TUM Sch Med & Hlth, Klinikum Rechts Isar, Ismaninger Str 22, D-81675 Munich, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3977
+Author: Singh, A. and Ratnapriya, R.
+Year: 2025
+Title: Integration of multiomic data identifies core-module of inherited-retinal diseases
+Journal: Human Molecular Genetics
+Date: Jan 10
+Short Title: Integration of multiomic data identifies core-module of inherited-retinal diseases
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf001
+Accession Number: WOS:001394046100001
+Keywords: genetics
+genomics
+bioinformatics
+disease network
+wgcna
+r/bioconductor package
+gene
+mutations
+nrl
+retinopathy
+expression
+transcriptome
+degeneration
+inference
+ontology
+Abstract: Human diseases with similar phenotypes can be interconnected through shared biological pathways, genes, or molecular mechanisms. Inherited retinal diseases (IRDs) cause photoreceptor dysfunction due to mutations in approximately 300 genes, affecting visual transduction, photoreceptor morphogenesis, and transcription factors, suggesting common pathobiological mechanisms. This study examined the functional relationship between known IRDs genes by integrating binding sites and gene expression data from the key photoreceptor transcription factors (TFs), Crx and Nrl. We show that the targets of these TFs were enriched in IRDs causal genes. Co-expression network analysis revealed that IRD-centric networks were disrupted when Crx and Nrl were knocked out. Finally, we identified a highly connected core module comprising 14 IRD and 39 target genes, of which 29 were dysregulated in the rod photoreceptors of the four IRD mouse models. These findings offer a network-based interpretation of IRDs, aiding in the identification of common mechanisms, prioritizing genes for novel disease gene identification, and informing the development of gene-agnostic therapies for IRDs.
+Notes: R8r3h
+Times Cited:0
+Cited References Count:95
+URL: <Go to ISI>://WOS:001394046100001
+Author Address: Baylor Coll Med, Dept Ophthalmol, 6565 Fannin St,NC205, Houston, TX 77030 USA
+Baylor Coll Med, Dept Biochem & Mol Pharmacol, 6565 Fannin St, NC205, Houston, TX 77030 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3966
+Author: Sullivan, S. M., Murphy, S. E., Stram, D. O., Wilkens, L. R., Haiman, C. A., Le Marchand, L., Stepanov, I. and Park, S. L.
+Year: 2025
+Title: Genome-wide association study of urinary cadmium levels in current smokers from the multiethnic cohort study
+Journal: Human Molecular Genetics
+Date: Jan 17
+Short Title: Genome-wide association study of urinary cadmium levels in current smokers from the multiethnic cohort study
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae202
+Accession Number: WOS:001400142500001
+Keywords: urinary cadmium
+cigarette smoking
+cadmium exposure
+genetic variants
+biomarkers
+national-health
+population
+expression
+exposure
+glucuronidation
+mortality
+nicotine
+smoking
+scara5
+Abstract: Background: Cadmium (Cd), classified as an International Agency for Research on Cancer (IARC) Group 1 human carcinogen, is present in cigarette smoke. Recent studies have illustrated the potential role of genetics in influencing Cd biomarker levels. Methods: We conducted a genome-wide association study (GWAS) of urinary Cd levels in 1977 current smokers from the Multiethnic Cohort Study, comprising participants from five different racial and ethnic groups. Linear regression models were adjusted for age at urine collection, sex, self-reported race/ethnicity, and the top ten leading principal components. Results: Among the 11 710 497 single nucleotide polymorphisms (SNP) analyzed, no associations with urinary Cd reached genome-wide significance (P < 5.0 x 10(-8)). Notably, five variants demonstrated suggestive associations with urinary Cd levels (P < 1.0 x 10(-6)). Lead variants included: rs10097646 in the SCARA gene at 8q13.2 (P = 2.62 x 10(-7)); rs7444817 in the NIPBL gene at 5p13.2 (P = 3.10 x 10(-7)), rs830422 in the SPINK4 gene at 9q13.2 (P = 4.89 x 10(-7)); chrX:145489901 in the SLC9A7 gene at Xq121.1 (P = 5.38 x 10(-7)); and rs73074456 at 5p13.3 (P = 5.86 x 10(-7)). Conclusions: Our GWAS of urinary Cd levels in a diverse population of people who smoke, revealed suggestive associations with variants in SCARA5, NIPBL, SPINK4, SLC9A7, and 5p13.3. These findings underscore the potential role of genetic factors in understanding and mitigating the health risks associated with internal dose of carcinogens, particularly in the context of tobacco-related carcinogens.
+Notes: S7r3d
+Times Cited:0
+Cited References Count:47
+URL: <Go to ISI>://WOS:001400142500001
+Author Address: UNIV MINNESOTA, DEPT LAB MED & PATHOL, 1200 Washington Ave S,Suite 175, MINNEAPOLIS, MN 55415 USA
+Univ Minnesota, Sch Publ Hlth, Div Environm Hlth Sci, 1260 Mayo Bldg,MMC 807420 Delaware St SE, Minneapolis, MN 55455 USA
+Univ Minnesota, Dept Biochem Mol Biol & Phys, 123 Snyder Hall 1475,Gortner Ave St Paul, Minneapolis, MN 55108 USA
+Univ Minnesota, Masonic Canc Ctr, 2231 6th St SE, Minneapolis, MN 55455 USA
+Univ Southern Calif, Keck Sch Med, Dept Preventat Med, 1975 Zonal Ave, Los Angeles, CA 90033 USA
+Univ Hawaii, Canc Ctr, Epidemiol Program, 701 Ilalo St, Honolulu, HI 96813 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3974
+Author: Wang, C. H., Zhang, G., Jiang, Y., Bao, G. C. and Li, C. S.
+Year: 2025
+Title: UBE2S, downregulated by miR-152-3p, facilitates prostate cancer progression through the PTEN-mediated AKT/mTOR pathway
+Journal: Human Molecular Genetics
+Date: Jan 14
+Short Title: UBE2S, downregulated by miR-152-3p, facilitates prostate cancer progression through the PTEN-mediated AKT/mTOR pathway
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf004
+Accession Number: WOS:001395593600001
+Keywords: prostate cancer
+ube2s
+mir-152-3p
+pten
+ubiquitination
+promotes
+antigen
+Abstract: Objectives: In recent years, the incidence and mortality rates of prostate cancer (PCa) have still not been significantly reduced and the mechanisms of tumor onset and progression are still not fully understood. The pathogenic mechanisms and upstream regulation of UBE2S expression in prostate cancer have not been elucidated. Methods: Here, we performed bioinformatic analysis of public databases to reveal the expression of UBE2S in PCa and its association with Gleason score, tumor staging, biochemical recurrence, and survival. Subsequently, the effect of UBE2S on the proliferation and invasive capacity of PCa cells was explored. Next, miR-152-3p was identified to bind to the 3 '-UTR of UBE2S mRNA and down-regulated in PCa through luciferase reporter assays. Dual immunofluorescence assay and co-immunoprecipitation assays were performed to verify the regulatory role of UBE2S on PTEN. Finally, the molecular mechanism of UBE2S regulation of PCa progression was further confirmed by rescue experiments and in vivo nude mouse subcutaneous transplantation tumor experiments. Results: UBE2S expression was upregulated in PCa and correlated with patient Gleason score, TNM stage, biochemical recurrence, and disease-free survival. miR-152-3p regulated UBE2S expression in PCa by binding to the UBE2S mRNA 3 '-UTR. Mechanistically, UBE2S combines with PTEN and ubiquitinates it, leading to PTEN degradation and ultimately promoting PCa progression via the AKT/mTOR signaling pathway. Conclusions: UBE2S, down-regulated by miR-152-3p, plays an important role in the onset and progression of PCa through the PTEN-mediated Akt/mTOR pathway and may become a new diagnostic marker and therapeutic target for PCa.
+Notes: S0y7h
+Times Cited:0
+Cited References Count:35
+URL: <Go to ISI>://WOS:001395593600001
+Author Address: Chifeng Univ, Affiliated Hosp, Dept Urol, 42 Wangfu St, Chifeng 024000, Peoples R China
+Chifeng Univ, Urol Res Ctr, 42 Wangfu St, Chifeng 024000, Peoples R China
+Binzhou Med Univ, Yan Tai Affiliated Hosp, Dept Urol, 717 Jinbu St, Binzhou 264100, Peoples R China
+Chifeng Univ, Affiliated Hosp, Med Reprod Ctr, 42 Wangfu St, Chifeng 024000, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3976
+Author: Wyatt, R. A., Jamaluddin, A., Mistry, V., Quinn, C. and Gorvin, C. M.
+Year: 2025
+Title: Obesity-associated MRAP2 variants impair multiple MC4R-mediated signaling pathways
+Journal: Human Molecular Genetics
+Date: Jan 14
+Short Title: Obesity-associated MRAP2 variants impair multiple MC4R-mediated signaling pathways
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddaf005
+Accession Number: WOS:001395595300001
+Keywords: g protein-coupled receptors
+obesity
+signal transduction
+mrap2 variants
+receptor accessory protein-2
+deficiency
+mutations
+prediction
+spectrum
+genes
+sim1
+show
+copy
+Abstract: The melanocortin-4 receptor (MC4R) is a G protein-coupled receptor expressed at hypothalamic neurons that has an important role in appetite suppression and food intake. Mutations in MC4R are the most common cause of monogenic obesity and can affect multiple signaling pathways including Gs-cAMP, Gq, ERK1/2, beta-arrestin recruitment, internalization and cell surface expression. The melanocortin-2 receptor accessory protein 2 (MRAP2), is a single-pass transmembrane protein that interacts with and regulates signaling by MC4R. Variants in MRAP2 have also been identified in overweight and obese individuals. However, functional studies that have only measured the effect of MRAP2 variants on MC4R-mediated cAMP signaling have produced inconsistent findings and most do not reduce MC4R function. Here we investigated the effect of twelve of these previously reported MRAP2 variants and showed that all variants that have been identified in overweight or obese individuals impair MC4R function. When expressed at equal concentrations, seven MRAP2 variants impaired MC4R-mediated cAMP signaling, while nine variants impaired IP3 signaling. Four mutations in the MRAP2 C-terminus affected internalization. MRAP2 variants had no effect on total or cell surface expression of either the MRAP2 or MC4R proteins. Structural models predicted that MRAP2 interacts with MC4R transmembrane helices 5 and 6, and mutations in two MRAP2 residues in putative contact sites impaired the ability of MRAP2 to facilitate MC4R signaling. In summary, our studies demonstrate that human MRAP2 variants associated with obesity impair multiple MC4R signaling pathways and that both Gs-cAMP and Gq-IP3 pathways should be assessed to determine variant pathogenicity.
+Notes: S0y7y
+Times Cited:0
+Cited References Count:57
+URL: <Go to ISI>://WOS:001395595300001
+Author Address: Univ Birmingham, Dept Metab & Syst Sci, IBR Tower,3rd Floor,Rm 333, Birmingham B15 2TT, England
+Univ Birmingham, Ctr Membrane Prot & Receptors COMPARE, Birmingham B15 2TT, England
+Univ Nottingham, Ctr Membrane Prot & Receptors COMPARE, Nottingham B15 2TT, England
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3970
+Author: Xiao, J., Feng, C. Z., Zhu, T. Q., Zhang, X., Chen, X. Y., Li, Z. J., You, J. Y., Wang, Q., Zhuansun, D., Meng, X. Y., Wang, J., Xiang, L., Yu, X. S., Zhou, B. Y., Tang, W. B., Tou, J. F., Wang, Y., Yang, H. Y., Yu, L., Liu, Y. M., Jiang, X. W., Ren, H. X., Yu, M., Chen, Q., Yin, Q., Liu, X., Xu, Z. L., Wu, D. M., Yu, D. H., Wu, X. J., Yang, J. X., Xiong, B., Chen, F., Hao, X. J. and Feng, J. X.
+Year: 2025
+Title: Rare and common genetic variants underlying the risk of Hirschsprung's disease
+Journal: Human Molecular Genetics
+Date: Jan 16
+Short Title: Rare and common genetic variants underlying the risk of Hirschsprung's disease
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae205
+Accession Number: WOS:001398052400001
+Keywords: hirschsprung's disease
+wes
+gwas
+susceptibility
+genetic landscape
+enteric nervous-system
+genome-wide association
+endothelin-b receptor
+mice lacking
+mouse models
+crest cells
+ret
+population
+expression
+defects
+Abstract: Hirschsprung's disease (HSCR) is a congenital enteric neuropathic disorder characterized by high heritability (>80%) and polygenic inheritance (>20 genes). The previous genome-wide association studies (GWAS) identified several common variants associated with HSCR and demonstrated increased predictive performance for HSCR risk in Europeans using a genetic risk score, there remains a notable gap in knowledge regarding Chinese populations. We conducted whole exome sequencing in a HSCR case cohort in Chinese. By using the common controls (505 controls from 1KG EAS and 10 588 controls from ChinaMAP), we conducted GWAS for the common variants in the exome and gene-based association for rare variants. We further validated the associated variants and genes in replicated samples and in vitro and vivo experiments. We identified one novel gene PLK5 by GWAS and suggested 45 novel putative genes based the gene-based test. By using genetic variant at RET and PLK5, we constructed a genetic risk score that could identify the individuals with very high genetic risk for HSCR. Compared with patients with zero or one risk allele from the three variants, the risk for HSCR was 36.61 times higher with six alleles. In addition, we delineated a HSCR risk gene landscape that encompasses 57 genes, which explains 88.5% and 54.5% of HSCR in Chinese and European, respectively. In summary, this study improved the understanding of genetic architecture of HSCR and provided a risk prediction approach for HSCR in the Chinese.
+Notes: S4p1o
+Times Cited:0
+Cited References Count:75
+URL: <Go to ISI>://WOS:001398052400001
+Author Address: Huazhong Univ Sci & Technol, Tongji Hosp, Tongji Med Coll, Dept Pediat Surg, 1095 Jiefang Ave, Wuhan 430030, Hubei, Peoples R China
+Hubei Clin Ctr Hirschsprungs Dis & Allied Disorder, 1095 Jiefang Ave, Wuhan 430030, Hubei, Peoples R China
+Huazhong Univ Sci & Technol, Tongji Hosp, Tongji Med Coll, Dept Orthoped, 1095 Jiefang Ave, Wuhan 430030, Peoples R China
+Shenzhen Pingshan Maternal & Child Hlth Hosp, Dept Pediat, 6 Longtian South Rd, Shenzhen 518122, Guangdong, Peoples R China
+Nanjing Med Univ, Dept Pediat Surg, Childrens Hosp, 72 Guangzhou Rd, Nanjing 210008, Jiangsu, Peoples R China
+Zhejiang Univ, Childrens Hosp, Dept Gen Surg, Sch Med, 3333 Binsheng Rd, Hangzhou 310003, Zhejiang, Peoples R China
+Chongqing Med Univ, Dept Gen & Neonatal Surg, Childrens Hosp, 136 Zhongshan 2nd Rd, Chongqing 400014, Peoples R China
+Zhengzhou Univ, Dept Urol, Affiliated Hosp 1, 1 Renmin Rd, Zhengzhou 450052, Henan, Peoples R China
+Huazhong Univ Sci & Technol, Wuhan Maternal & Child Healthcare Hosp, Wuhan Childrens Hosp, Tongji Med Coll,Dept Otolaryngol, 100 Hong Kong Rd, Wuhan 430000, Peoples R China
+Zunyi Med Univ, Dept Pediat Surg, Affiliated Hosp, 149 Dalian Rd, Zunyi 563000, Guizhou, Peoples R China
+Shantou Univ, Med Coll, Affiliated Hosp 2, Dept Pediat Surg, 69 Dongxia North Rd, Jinping Dist 515041, Shantou, Peoples R China
+Shanxi Childrens Hosp, Dept Gen Surg, 13 Xinminbei St, Taiyuan 030013, Shanxi, Peoples R China
+Guiyang Maternal & Child Hlth Hosp, Dept Pediat Surg, 63 Ruijin South Rd, Guiyang 550002, Guizhou, Peoples R China
+Zhengzhou Univ, Affiliated Hosp 3, Dept Pediat Surg, 7 Kangfuqian Rd, Zhengzhou 450052, Henan, Peoples R China
+Hunan Childrens Hosp, Dept Gen Surg, 86 Ziyuan Rd, Changsha 410007, Hunan, Peoples R China
+Anhui Prov Childrens Hosp, Dept Pediat Surg, 39 Wangjiang East Rd, Hefei 230051, Anhui, Peoples R China
+Harbin Med Univ, Dept Psychiat, Affiliated Hosp 1, 199 Dazhi St, Harbin 150001, Heilongjiang, Peoples R China
+Fujian Med Univ, Affiliated Hosp, Fujian Matern & Child Hlth Hosp, 18 Daoshan Rd, Fuzhou 350001, Fujian, Peoples R China
+Huazhong Univ Sci & Technol, Tongji Med Coll, Dept Forens Med, 13 Hangkong Rd, Wuhan 430030, Hubei, Peoples R China
+Fujian Med Univ, Union Hosp, Dept Pediat Surg, 29 Xinquan Rd, Fuzhou 350001, Fujian, Peoples R China
+Huazhong Univ Sci & Technol, Sch Publ Hlth, Tongji Med Coll, Dept Epidemiol & Biostat, 13 Hangkong Rd, Wuhan 430030, Hubei, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3975
+Author: Zhao, X., Zhang, H. F., Liu, Y. Y., Li, L. and Wei, H. T.
+Year: 2025
+Title: Study on the metastatic mechanism of LINC00115 in adenocarcinoma of the Esophagogastric junction
+Journal: Human Molecular Genetics
+Date: Jan 14
+Short Title: Study on the metastatic mechanism of LINC00115 in adenocarcinoma of the Esophagogastric junction
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae193
+Accession Number: WOS:001395591900001
+Keywords: linc00115
+adenocarcinoma of the esophagogastric junction
+kh-type splicing regulatory protein
+metastasis
+gastroesophageal junction
+Abstract: Adenocarcinoma of the esophagogastric junction (AEG) is a common and deadly cancer, and an in-depth investigation of its molecular mechanisms of metastasis is crucial for discovering new therapeutic targets. This study explores the role of the long non-coding RNA (lncRNA) LINC00115 in AEG metastasis and its underlying mechanisms. Through the analysis of 108 pairs of AEG cancer tissues and matched adjacent tissues, we found a significant upregulation of LINC00115 in AEG tissues, closely associated with TNM staging and lymph node metastasis. Utilizing cell counting kit-8 (CCK-8) assays, colony formation experiments, wound healing assays, flow cytometry for apoptosis and cell cycle analysis, and Transwell assays, we have confirmed that LINC00115 significantly promotes proliferation, migration, and invasion of AEG cells in vitro. Animal experiments further validate the role of LINC00115 in promoting tumor growth and metastasis in vivo. Additionally, our nuclear-cytoplasmic fractionation experiments and RNA fluorescence in situ hybridization (FISH) reveal that LINC00115, along with its interacting protein KH-Type splicing regulatory protein (KHSRP), predominantly localizes to the cell nucleus. By conducting RNA pull-down assays and mass spectrometry (MS) analysis, we have identified a direct interaction between LINC00115 and KHSRP protein and further determined their binding sites through catRAPID and ENCORI databases. This study provides evidence of LINC00115 as a novel biomarker and potential therapeutic target for AEG and offers a fresh perspective on understanding the molecular mechanisms of AEG metastasis.
+Notes: S0y6q
+Times Cited:0
+Cited References Count:48
+URL: <Go to ISI>://WOS:001395591900001
+Author Address: Henan Univ, Huaihe Hosp, Dept Gastroenterol, 8, Baobei Rd, Gulou Dist, Kaifeng, Henan, Peoples R China
+Henan Univ, Huaihe Hosp, Dept Thorac Surg, 8,Baobei Rd,Gulou Dist, Kaifeng, Henan, Peoples R China
+Henan Univ, Sch Med, Kaifeng, Peoples R China
+Henan Univ, Huaihe Hosp, Sch Nursing & Hlth, Dept Thorac Surg, 8 Baobei Rd, Kaifeng, Henan, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3982
+Author: Zhao, Z. Q., Liu, Y. Y., Wang, M. Y. and Wei, A. W.
+Year: 2025
+Title: Elevated LINC00115 expression correlates with aggressive endometrial cancer phenotypes via JAK/STAT pathway modulation
+Journal: Human Molecular Genetics
+Date: Jan 7
+Short Title: Elevated LINC00115 expression correlates with aggressive endometrial cancer phenotypes via JAK/STAT pathway modulation
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae194
+Accession Number: WOS:001390416600001
+Keywords: endometrial cancer
+linc00115
+tumor biomarker
+tumor proliferation
+tumor invasion and migration
+rna
+Abstract: This study systematically explores the oncogenic role of the long non-coding RNA (lncRNA) LINC00115 in endometrial cancer (EC) and reveals its unique mechanism in promoting proliferation, invasion, and metastasis via the JAK/STAT signaling pathway. LINC00115 is significantly upregulated in EC tissues and closely associated with advanced TNM staging and lymph node metastasis. Functional assays showed that knockdown of LINC00115 suppressed EC cell proliferation, invasion, and metastasis, while overexpression enhanced these malignant behaviors. In vivo models confirmed that LINC00115 overexpression accelerates tumor growth and metastasis. Our study is the first to identify LINC00115 as a key activator of the JAK/STAT pathway through direct interaction with KH-type Splicing Regulatory Protein (KHSRP), a previously unrecognized mechanism in EC. This finding provides new insights into lncRNA-mediated signaling regulation and highlights LINC00115 as a novel biomarker and promising therapeutic target for EC, offering a theoretical basis for developing targeted therapies.
+Notes: R3i1c
+Times Cited:0
+Cited References Count:62
+URL: <Go to ISI>://WOS:001390416600001
+Author Address: Henan Univ CM, Affiliated Hosp 1, Dept Reprod Med, 19 Renmin Rd, Zhengzhou, Henan, Peoples R China
+Henan Univ Tradit Chinese Med, Clin Med Coll 1, 19 Renmin Rd, Zhengzhou, Henan, Peoples R China
+Henan Univ, Sch Med, North Sect Jinming Ave, Kaifeng, Henan, Peoples R China
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 3980
+Author: Zhou, Y. W., Zhang, Y. J., Xu, Q. D., Sun, X. H. and Chen, Y. H.
+Year: 2025
+Title: The evaluation of targeted exome sequencing of candidate genes in a Han Chinese population with primary open-angle glaucoma
+Journal: Human Molecular Genetics
+Date: Jan 8
+Short Title: The evaluation of targeted exome sequencing of candidate genes in a Han Chinese population with primary open-angle glaucoma
+Alternate Journal: Hum Mol Genet
+ISSN: 0964-6906
+DOI: 10.1093/hmg/ddae198
+Accession Number: WOS:001390713300001
+Keywords: primary open-angle glaucoma
+genetics
+polymorphisms
+han chinese
+genome-wide association
+common variants
+primary cilia
+mutations
+level
+Abstract: Primary open-angle glaucoma (POAG), known as a common ocular disease with genetic heterogeneity, is characterized by progressive optic disc atrophy and visual field defects. This study aimed to assess the contribution of previously reported POAG-associated genes and investigate potential functional variations and genotype-phenotype correlations in a Han Chinese population. DNA from 500 cases and 500 controls was pooled and sequenced using a customized panel of 398 candidate genes. After prioritization, 21 SNPs from 16 genes were genotyped in the first replication cohort (500 cases and 500 controls), and 9 SNPs were genotyped in the second replication cohort (500 cases and 500 controls). Allelic associations and odds ratios were adjusted for age and sex, while linear regression assessed SNP correlations with POAG endophenotypes. Haplotype analysis and linkage disequilibrium were performed using Haploview. In silico prediction tools were used to predict pathogenicity and function. SNPs from MFN2, DGKG, PKHD1, PTPRJ, and LTBP2 were associated with POAG in at least one cohort, and SNPs from EXOC2, PTPRJ, and LTBP2 showed significant correlations with intraocular pressure. Additionally, haplotype analysis revealed a significant association between the EXOC2 TGC haplotype and POAG risk. We validated several candidate genes and identified novel SNPs, providing further insight into the genetic architecture of POAG in the Han Chinese population.
+Notes: R3t4t
+Times Cited:0
+Cited References Count:46
+URL: <Go to ISI>://WOS:001390713300001
+Author Address: Fudan Univ, Eye & ENT Hosp, Eye Inst, 83 Fenyang Rd, Shanghai 200031, Peoples R China
+Fudan Univ, Eye & ENT Hosp, Dept Ophthalmol, 83 Fenyang Rd, Shanghai 200031, Peoples R China
+Chinese Acad Med Sci, Key Lab Myopia & Related Eye Dis, Shanghai 200031, Peoples R China
+Fudan Univ, Shanghai Key Lab Visual Impairment & Restorat, Shanghai, Peoples R China
+Fudan Univ, Inst Brain Sci, State Key Lab Med Neurobiol, Shanghai 200032, Peoples R China
+Fudan Univ, Collaborat Innovat Ctr Brain Sci, Shanghai 200032, Peoples R China
+Language: English
+

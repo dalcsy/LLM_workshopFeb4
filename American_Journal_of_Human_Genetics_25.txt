@@ -1,0 +1,946 @@
+﻿Reference Type:  Journal Article
+Record Number: 4052
+Author: Brooks, D. L., Whittaker, M. N., Qu, P., Musunuru, K., Ahrens-Nicklas, R. C. and Wang, X.
+Year: 2023
+Title: Efficient
+
+
+ prime editing corrects the most frequent phenylketonuria variant, associated with high unmet medical need
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2003-2014
+Date: Dec 7
+Short Title: Efficient
+
+
+ prime editing corrects the most frequent phenylketonuria variant, associated with high unmet medical need
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.005
+Accession Number: WOS:001134588700001
+Keywords: genomic DNA
+base
+Abstract: The c.1222C>T (p.Arg408Trp) variant in the phenylalanine hydroxylase gene (PAH) is the most frequent cause of phenylketonuria (PKU), the most common inborn error of metabolism. This autosomal-recessive disorder is characterized by accumulation of blood phenylalanine (Phe) to neurotoxic levels. Using real-world data, we observed that despite dietary and medical interventions, most PKU individuals harboring at least one c.1222C>T variant experience chronic, severe Phe elevations and do not comply with Phe monitoring guidelines. Motivated by these findings, we generated an edited c.1222C>T hepatocyte cell line and humanized c.1222C>T mouse models, with which we demonstrated efficient in vitro and in vivo correction of the variant with prime editing. Delivery via ad-eno-associated viral (AAV) vectors reproducibly achieved complete normalization of blood Phe levels in PKU mice, with up to 52% whole-liver corrective PAH editing. These studies validate a strategy involving prime editing as a potential treatment for a large proportion of individuals with PKU.
+Notes: Du4u4
+Times Cited:12
+Cited References Count:25
+URL: <Go to ISI>://WOS:001134588700001
+Author Address: Univ Penn, Perelman Sch Med, Cardiovasc Inst, Philadelphia, PA 19104 USA
+Univ Penn, Dept Med, Div Cardiovasc Med, Perelman Sch Med, Philadelphia, PA 19104 USA
+Univ Penn, Perelman Sch Med, Dept Genet, Philadelphia, PA 19104 USA
+Univ Penn, Dept Bioengn, Philadelphia, PA 19104 USA
+Childrens Hosp Philadelphia, Dept Pediat, Metab Dis Program, Div Human Genet, Philadelphia, PA 19104 USA
+Univ Penn, Perelman Sch Med, Dept Pediat, Philadelphia, PA 19104 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4074
+Author: Chan, T. F., Rui, X. Y., Conti, D. V., Fornage, M., Graff, M., Haessler, J., Haiman, C., Highland, H. M., Jung, S. Y., Kenny, E. E., Kooperberg, C., Le Marchand, L., North, K. E., Tao, R., Wojcik, G., Gignoux, C. R., Chiang, C. W. K., Mancuso, N. and Consortium, PAGE
+Year: 2023
+Title: Estimating heritability explained by local ancestry and evaluating stratification bias in admixture mapping from summary statistics
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1853-1862
+Date: Nov 2
+Short Title: Estimating heritability explained by local ancestry and evaluating stratification bias in admixture mapping from summary statistics
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.09.012
+Accession Number: WOS:001108699200001
+Keywords: genome-wide association
+snp-heritability
+regression
+latinos
+locus
+rare
+Abstract: The heritability explained by local ancestry markers in an admixed population (h27) provides crucial insight into the genetic architecture of a complex disease or trait. Estimation of h27 can be susceptible to biases due to population structure in ancestral populations. Here, we present heritability estimation from admixture mapping summary statistics (HAMSTA), an approach that uses summary statistics from admixture mapping to infer heritability explained by local ancestry while adjusting for biases due to ancestral stratification. Through extensive simulations, we demonstrate that HAMSTA h27 estimates are approximately unbiased and are robust to ancestral stratification compared to existing approaches. In the presence of ancestral stratification, we show a HAMSTA-derived sampling scheme provides a calibrated family-wise error rate (FWER) of -5% for admixture mapping, unlike existing FWER estimation approaches. We apply HAMSTA to 20 quantitative phenotypes of up to 15,988 self-reported African American individuals in the Population Architecture 7 in the 20 phenotypes range from 0.0025 to 0.033 (mean hb2 using Genomics and Epidemiology (PAGE) study. We observe hb2 7 0.012 +/- 9.2 3 10-4), which translates to hb2 ranging from 0.062 to 0.85 (mean hb2 1/4 0.30 +/- 0.023). Across these phenotypes we find little evidence of inflation due to ancestral population stratification in current admixture mapping studies (mean inflation factor of 0.99 +/- 0.001). Overall, HAMSTA provides a fast and powerful approach to estimate genome-wide heritability and evaluate biases in test statistics of admixture mapping studies. 1/4
+Notes: Y9wu6
+Times Cited:3
+Cited References Count:37
+URL: <Go to ISI>://WOS:001108699200001
+Author Address: Univ Southern Calif, Ctr Genet Epidemiol, Keck Sch Med, Dept Populat & Publ Hlth Sci, Los Angeles, CA 90007 USA
+Univ Texas Hlth Sci Ctr, Brown Fdn, Inst Mol Med, Houston, TX USA
+Univ N Carolina, Gillings Sch Global Publ Hlth, Dept Epidemiol, Chapel Hill, NC USA
+Fred Hutchinson Canc Ctr, Div Publ Hlth Sci, Seattle, WA USA
+Univ Calif Los Angeles, Jonsson Comprehens Canc Ctr, Sch Nursing, Translat Sci Sect, Los Angeles, CA USA
+Icahn Sch Med Mt Sinai, Inst Genom Hlth, New York, NY USA
+Univ Hawaii, Canc Ctr, Epidemiol Program, Honolulu, HI USA
+Vanderbilt Univ, Med Ctr, Dept Biostat, Nashville, TN USA
+Vanderbilt Univ, Med Ctr, Vanderbilt Genet Inst, Nashville, TN USA
+Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Dept Epidemiol, Baltimore, MD USA
+Univ Colorado, Colorado Ctr Personalized Med, Anschutz Med Campus, Aurora, CO USA
+Univ Southern Calif, Dept Quantitat & Computat Biol, Los Angeles, CA 90007 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4053
+Author: DuPont, B. R., Palmour, R., Howard-Peebles, P. and Hsieh, C. L.
+Year: 2023
+Title: H. Eldon Sutton, PhD (1927-2023): A long and full life OBITUARY
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 1989-1991
+Date: Dec 7
+Short Title: H. Eldon Sutton, PhD (1927-2023): A long and full life OBITUARY
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.11.003
+Accession Number: WOS:001134583700001
+Notes: Du4p5
+Times Cited:0
+Cited References Count:8
+URL: <Go to ISI>://WOS:001134583700001
+Author Address: Greenwood Genet Ctr, Greenwood, SC 29646 USA
+McGill Univ, Fac Med & Hlth Sci, Dept Human Genet, Montreal, PQ H3A 0C7, Canada
+McGill Univ, Fac Med & Hlth Sci, Dept Psychiat, Montreal, PQ H3A0C7, Canada
+Univ Southern Calif, USC Norris Comprehens Canc Ctr, Keck Sch Med, Los Angeles, CA 90033 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4062
+Author: Engal, E., Oja, K. T., Maroofian, R., Geminder, O., Le, T. L., Marzin, P., Guimier, A., Mor, E., Zvi, N., Elefant, N., Zaki, M. S., Gleeson, J. G., Muru, K., Pajusalu, S., Wojcik, M. H., Pachat, D., Elmaksoud, M. A., Jeong, W. C., Lee, H. E., Bauer, P., Zifarelli, G., Houlden, H., Daana, M., Elpeleg, O., Amiel, J., Lyonnet, S., Gordon, C. T., Harel, T., Ounap, K., Salton, M. and Mor-Shaked, H.
+Year: 2023
+Title: Bi-allelic loss-of-function variants in
+ encoding a spliceosome protein, result in a variable neurodevelopmental syndrome
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2112-2119
+Date: Dec 7
+Short Title: Bi-allelic loss-of-function variants in
+ encoding a spliceosome protein, result in a variable neurodevelopmental syndrome
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.013
+Accession Number: WOS:001134311200001
+Keywords: rna
+domains
+binding
+Abstract: Over two dozen spliceosome proteins are involved in human diseases, also referred to as spliceosomopathies. WW domain-binding pro-tein 4 (WBP4) is part of the early spliceosomal complex and has not been previously associated with human pathologies in the Online Mendelian Inheritance in Man (OMIM) database. Through GeneMatcher, we identified ten individuals from eight families with a severe neurodevelopmental syndrome featuring variable manifestations. Clinical manifestations included hypotonia, global developmental delay, severe intellectual disability, brain abnormalities, musculoskeletal, and gastrointestinal abnormalities. Genetic analysis revealed five different homozygous loss-of-function variants in WBP4. Immunoblotting on fibroblasts from two affected individuals with different genetic variants demonstrated a complete loss of protein, and RNA sequencing analysis uncovered shared abnormal splicing patterns, including in genes associated with abnormalities of the nervous system, potentially underlying the phenotypes of the pro -bands. We conclude that bi-allelic variants in WBP4 cause a developmental disorder with variable presentations, adding to the growing list of human spliceosomopathies.
+Notes: Dt4l0
+Times Cited:4
+Cited References Count:27
+URL: <Go to ISI>://WOS:001134311200001
+Author Address: Hebrew Univ Jerusalem, Inst Med Res Israel Canada, Fac Med, Dept Biochem & Mol Biol, IL-9112102 Jerusalem, Israel
+Hebrew Univ Jerusalem, Fac Med, Dept Mil Med & Tzameret, Jerusalem, Israel
+Tartu Univ Hosp, Genet & Personalized Med Clin, Tartu, Estonia
+Univ Tartu, Inst Clin Med, Tartu, Estonia
+UCL Queen Sq Inst Neurol, Dept Neuromuscular Dis, London, England
+INSERM, UMR 1163, Inst Imagine, Lab Embryol & Genet Human Malformat, F-75015 Paris, France
+Univ Paris Cite, F-75015 Paris, France
+Hop Necker Enfants Malad, AP HP, Serv Med Genom Maladies Rares, F-75015 Paris, France
+Ben Gurion Univ Negev, Dept Comp Sci, Beer Sheva, Israel
+Hadassah Med Org, Dept Genet, Jerusalem, Israel
+Natl Res Ctr, Human Genet & Genome Res Inst, Dept Clin Genet, Cairo, Egypt
+Univ Calif San Diego, Dept Neurosci, La Jolla, CA USA
+2Rady Childrens Inst Genom Med, La Jolla, CA USA
+Broad Inst MIT & Harvard, Cambridge, MA USA
+Aster MIMS Malabar Inst Med Sci Calicut, Dept Med Genet, Calicut, Kerala, India
+Alexandria Univ, Fac Med, Dept Pediat, Neurol Unit, Alexandria, Egypt
+3billion, Seoul, South Korea
+CENTOGENE GmbH, Strande 7, D-18055 Rostock, Germany
+Clalit & Maccabi Hlth Care Serv, Child Dev Ctr, Jerusalem, Israel
+Hebrew Univ Jerusalem, Fac Med, Jerusalem, Israel
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4067
+Author: Geck, R. C., Powell, N. R. and Dunham, M. J.
+Year: 2023
+Title: Response to Luzzatto et al.
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1986-1986
+Date: Nov 2
+Short Title: Response to Luzzatto et al.
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.004
+Accession Number: WOS:001109614000001
+Notes: Z1fr0
+Times Cited:0
+Cited References Count:4
+URL: <Go to ISI>://WOS:001109614000001
+Author Address: Univ Washington, Dept Genome Sci, Seattle, WA 98195 USA
+Indiana Univ, Dept Med, Div Clin Pharmacol, Sch Med, Indianapolis, IN 46202 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4060
+Author: George, S. H. L., Medina-Rivera, A., Idaghdour, Y., Lappalainen, T. and Romero, I. G.
+Year: 2023
+Title: Increasing diversity of functional genetics studies to advance biological discovery and human health
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 1996-2002
+Date: Dec 7
+Short Title: Increasing diversity of functional genetics studies to advance biological discovery and human health
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.012
+Accession Number: WOS:001134361200001
+Keywords: expression
+variants
+ancestry
+genomics
+biobank
+design
+Abstract: In this perspective we discuss the current lack of genetic and environmental diversity in functional genomics datasets. There is a well described Eurocentric bias in genetic and functional genomic research that has a clear impact on the benefit this research can bring to underrepresented populations. Current research focused on genetic variant-to-function experiments aims to identify molecular QTLs, but the lack of data from genetically diverse individuals has limited analyses to mostly populations of European ancestry. Although some efforts have been established to increase diversity in functional genomic studies, much remains to be done to consistently generate data for underrepresented populations from now on. We discuss the major barriers for this continuity and suggest actionable insights, aiming to empower research and researchers from underserved populations.
+Notes: Dt6i6
+Times Cited:1
+Cited References Count:61
+URL: <Go to ISI>://WOS:001134361200001
+Author Address: Univ Miami, Miller Sch Med, Dept Obstet Gynecol & Reprod Sci, Miami, FL 33146 USA
+Sylvester Comprehens Canc Ctr, Miami, FL 33146 USA
+Univ Nacl Autenoma Mexico, Lab Int Investigacien Genoma Humano, Juriquilla, Queretaro, Mexico
+New York Univ Abu Dhabi, Program Biol, Div Sci & Math, Abu Dhabi, U Arab Emirates
+New York Univ Abu Dhabi, Publ Hlth Res Ctr, Abu Dhabi, U Arab Emirates
+New York Univ Abu Dhabi, Ctr Genom & Syst Biol, Abu Dhabi, U Arab Emirates
+KTH Royal Inst Technol, Dept Gene Technol, Sci Life Lab, Stockholm, Sweden
+New York Genome Ctr, New York, NY 10013 USA
+Univ Melbourne, Melbourne Integrat Genom & Sch Biosci, Parkville, Vic, Australia
+Univ Tartu, Inst Gen, Ctr Gen Evolut & Med, Tartu, Estonia
+St Vincents Inst Med Res, Human Genom & Evolut Grp, Fitzroy, Vic, Australia
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4065
+Author: Gunter, C. and Green, E. D.
+Year: 2023
+Title: To boldly go: Unpacking the NHGRI's bold predictions for human genomics by 2030
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1829-1831
+Date: Nov 2
+Short Title: To boldly go: Unpacking the NHGRI's bold predictions for human genomics by 2030
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.09.010
+Accession Number: WOS:001109704600001
+Keywords: vision
+Abstract: The 2020 strategic vision for human genomics, written by the National Human Genome Research Institute (NHGRI), was punctuated by a set of provocatively audacious "bold predictions for human genomics by 2030."Starting here, these will be unpacked and discussed in an upcoming series in the American Journal of Human Genetics.
+Notes: Z1jb5
+Times Cited:6
+Cited References Count:3
+URL: <Go to ISI>://WOS:001109704600001
+Author Address: Natl Human Genome Res Inst, NIH, 31 Ctr Dr, Bethesda, MD 20892 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4072
+Author: Linder, J. E., Tao, R., Chung, W. K., Kiryluk, K., Liu, C., Weng, C. H., Connolly, J. J., Hakonarson, H., Harr, M., Leppig, K. A., Jarvik, G. P., Veenstra, D. L., Aufox, S., Chisholm, R. L., Gordon, A. S., Hoell, C., Rasmussen-Torvik, L. J., Smith, M. E., Holm, I. A., Miller, E. M., Prows, C. A., Elskeally, O., Kullo, I. J., Lee, C. S. P., Jose, S., Manolio, T. A., Rowley, R., Padi-Adjirackor, N. A., Wilmayani, N. K., City, B., Wei, W. Q., Wiesner, G. L., Rahm, A. K., Williams, J. L., Williams, M. S. and Peterson, J. F.
+Year: 2023
+Title: Prospective, multi-site study of healthcare utilization after actionable monogenic findings from clinical sequencing
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1950-1958
+Date: Nov 2
+Short Title: Prospective, multi-site study of healthcare utilization after actionable monogenic findings from clinical sequencing
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.006
+Accession Number: WOS:001109999400001
+Keywords: return
+Abstract: As large-scale genomic screening becomes increasingly prevalent, understanding the influence of actionable results on healthcare utilization is key to estimating the potential long-term clinical impact. The eMERGE network sequenced individuals for actionable genes in multiple genetic conditions and returned results to individuals, providers, and the electronic health record. Differences in recommended health services (laboratory, imaging, and procedural testing) delivered within 12 months of return were compared among individuals with pathogenic or likely pathogenic (P/LP) findings to matched individuals with negative findings before and after return of results. Of 16,218 adults, 477 unselected individuals were found to have a monogenic risk for arrhythmia (n = 95), breast cancer (n = 96), cardiomyopathy (n = 95), colorectal cancer (n = 105), or familial hypercholesterolemia (n = 86). Individuals with P/LP results more frequently received services after return (43.8%) compared to before return (25.6%) of results and compared to individuals with negative findings (24.9%; p < 0.0001). The annual cost of qualifying healthcare services increased from an average of $162 before return to $343 after return of results among the P/LP group (p < 0.0001); differences in the negative group were non-significant. The mean difference in-differences was $149 (p < 0.0001), which describes the increased cost within the P/LP group corrected for cost changes in the negative group. When stratified by individual conditions, significant cost differences were observed for arrhythmia, breast cancer, and cardiomyopathy. In conclusion, less than half of individuals received billed health services after monogenic return, which modestly increased healthcare costs for payors in the year following return.
+Notes: Z1uj8
+Times Cited:2
+Cited References Count:29
+URL: <Go to ISI>://WOS:001109999400001
+Author Address: Vanderbilt Univ Sch Med, Nashville, TN 37203 USA
+Columbia Univ, New York, NY 10032 USA
+Childrens Hosp Philadelphia, Philadelphia, PA 19104 USA
+Univ Penn, Perelman Sch Med, Philadelphia, PA 19104 USA
+Kaiser Permanente Washington, Genet Serv, Seattle, WA 98195 USA
+Univ Washington, Med Ctr, Dept Med Med Genet, Seattle, WA 98195 USA
+Univ Washington, Dept Pharm, Seattle, WA 98195 USA
+Northwestern Univ, Ctr Genet Med, Chicago, IL 60611 USA
+Boston Childrens Hosp, Boston, MA 02115 USA
+Cincinnati Childrens Hosp Med Ctr, Div Cardiol, Cincinnati, OH 45229 USA
+Univ Cincinnati, Coll Med, Dept Pediat, Cincinnati, OH USA
+Cincinnati Childrens Hosp Med Ctr, Div Human Genet, Cincinnati, OH 45229 USA
+Mayo Clin, Rochester, MN 55905 USA
+Natl Human Genome Res Inst, Bethesda, MD 20892 USA
+Vanderbilt Univ, Dept Hlth Policy, Nashville, TN 37203 USA
+Geisinger, Dept Genom Hlth, Danville, PA 17822 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4055
+Author: Link, V., Schraiber, J. G., Fan, C. Q., Dinh, B., Mancuso, N., Chiang, C. W. K. and Edge, M. D.
+Year: 2023
+Title: Tree-based QTL mapping with expected local genetic relatedness matrices
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2077-2091
+Date: Dec 7
+Short Title: Tree-based QTL mapping with expected local genetic relatedness matrices
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.017
+Accession Number: WOS:001134332400001
+Keywords: body-mass index
+genome-wide association
+linkage disequilibrium
+allelic heterogeneity
+genotype-imputation
+common variant
+trait loci
+model
+heritability
+gwas
+Abstract: Understanding the genetic basis of complex phenotypes is a central pursuit of genetics. Genome-wide association studies (GWASs) are a powerful way to find genetic loci associated with phenotypes. GWASs are widely and successfully used, but they face challenges related to the fact that variants are tested for association with a phenotype independently, whereas in reality variants at different sites are correlated because of their shared evolutionary history. One way to model this shared history is through the ancestral recombination graph (ARG), which encodes a series of local coalescent trees. Recent computational and methodological breakthroughs have made it feasible to estimate approximate ARGs from large-scale samples. Here, we explore the potential of an ARG-based approach to quantitative-trait locus (QTL) map-ping, echoing existing variance-components approaches. We propose a framework that relies on the conditional expectation of a local genetic relatedness matrix (local eGRM) given the ARG. Simulations show that our method is especially beneficial for finding QTLs in the presence of allelic heterogeneity. By framing QTL mapping in terms of the estimated ARG, we can also facilitate the detection of QTLs in understudied populations. We use local eGRM to analyze two chromosomes containing known body size loci in a sample of Native Hawaiians. Our inves-tigations can provide intuition about the benefits of using estimated ARGs in population-and statistical-genetic methods in general.
+Notes: Dt5g1
+Times Cited:4
+Cited References Count:108
+URL: <Go to ISI>://WOS:001134332400001
+Author Address: Univ Southern Calif, Dept Quantitat & Computat Biol, Los Angeles, CA 90007 USA
+Univ Southern Calif, Ctr Genet Epidemiol, Keck Sch Med, Dept Populat & Publ Hlth Sci, Los Angeles, CA USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4054
+Author: Lu, W. H., Gauthier, L. D., Poterba, T., Giacopuzzi, E., Goodrich, J. K., Stevens, C. R., King, D., Daly, M. J., Neale, B. M. and Karczewski, K. J.
+Year: 2023
+Title: CHARR efficiently estimates contamination from DNA sequencing data
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2068-2076
+Date: Dec 7
+Short Title: CHARR efficiently estimates contamination from DNA sequencing data
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.011
+Accession Number: WOS:001134459000001
+Keywords: samples
+Abstract: DNA sample contamination is a major issue in clinical and research applications of whole-genome and-exome sequencing. Even modest levels of contamination can substantially affect the overall quality of variant calls and lead to widespread genotyping errors. Currently, popular tools for estimating the contamination level use short-read data (BAM/CRAM files), which are expensive to store and manipulate and often not retained or shared widely. We propose a metric to estimate DNA sample contamination from variant-level whole-genome and-exome sequence data called CHARR, contamination from homozygous alternate reference reads, which leverages the infiltration of reference reads within homozygous alternate variant calls. CHARR uses a small proportion of variant-level genotype information and thus can be computed from single-sample gVCFs or callsets in VCF or BCF formats, as well as efficiently stored variant calls in Hail VariantDataset format. Our results demonstrate that CHARR accurately recapitulates results from existing tools with substantially reduced costs, improving the accuracy and efficiency of downstream analyses of ultra-large whole-genome and exome sequencing datasets.
+Notes: Dt9z2
+Times Cited:2
+Cited References Count:10
+URL: <Go to ISI>://WOS:001134459000001
+Author Address: Broad Inst MIT & Harvard, Program Med & Populat Genet, Cambridge, MA 02142 USA
+Massachusetts Gen Hosp, Analyt & Translat Genet Unit, Boston, MA 02114 USA
+Broad Inst MIT & Harvard, Stanley Ctr Psychiat Res, Cambridge, MA 02142 USA
+Broad Inst MIT & Harvard, Data Sci Platform, Cambridge, MA 02142 USA
+Human Technopole, Viale Rita Levi Montalcini 1, I-20157 Milan, Italy
+Inst Mol Med Finland, Helsinki, Finland
+Broad Inst MIT & Harvard, Novo Nordisk Fdn Ctr Genom Mech Dis, Cambridge, MA 02142 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4064
+Author: Luzzatto, L., Nannelli, C. and Notaro, R.
+Year: 2023
+Title: Potentially pathogenic and pathogenic G6PD variants
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1983-1985
+Date: Nov 2
+Short Title: Potentially pathogenic and pathogenic G6PD variants
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.003
+Accession Number: WOS:001109714100001
+Keywords: anemia
+Notes: Z1jk9
+Times Cited:3
+Cited References Count:10
+URL: <Go to ISI>://WOS:001109714100001
+Author Address: Univ Florence, Florence, Italy
+Ist Studio Prevenz & Rete Oncolog ISPRO, Core Res Lab, Florence, Italy
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4071
+Author: Mah-Som, A. Y., Daw, J., Huynh, D., Wu, M. C., Creekmore, B. C., Burns, W., Skinner, S. A., Holla, O. L., Smeland, M. F., Planes, M., Uguen, K., Redon, S., Bierhals, T., Scholz, T., Denecke, J., Mensah, M. A., Sczakiel, H. L., Tichy, H., Verheyen, S., Blatterer, J., Schreiner, E., Thies, J., Lam, C., Spaeth, C., Pena, L., Ramsey, K., Narayanan, V., Seaver, L. H., Rodriguez, D., Afenjar, A., Burglen, L., Lee, E. B., Chou, T. F., Weihl, C. C. and Shinawi, M. S.
+Year: 2023
+Title: An autosomal-dominant childhood-onset disorder associated with pathogenic variants in
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1959-1975
+Date: Nov 2
+Short Title: An autosomal-dominant childhood-onset disorder associated with pathogenic variants in
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.007
+Accession Number: WOS:001109601300001
+Keywords: valosin-containing protein
+aaa-atpase
+unfoldase activity
+p97/vcp atpase
+paget disease
+mutations
+p97
+rare
+myopathy
+deletion
+Abstract: Valosin-containing protein (VCP) is an AAA+ ATPase that plays critical roles in multiple ubiquitin-dependent cellular processes. Domi-nant pathogenic variants in VCP are associated with adult-onset multisystem proteinopathy (MSP), which manifests as myopathy, bone disease, dementia, and/or motor neuron disease. Through GeneMatcher, we identified 13 unrelated individuals who harbor heterozy-gous VCP variants (12 de novo and 1 inherited) associated with a childhood-onset disorder characterized by developmental delay, intel-lectual disability, hypotonia, and macrocephaly. Trio exome sequencing or a multigene panel identified nine missense variants, two in -frame deletions, one frameshift, and one splicing variant. We performed in vitro functional studies and in silico modeling to investigate the impact of these variants on protein function. In contrast to MSP variants, most missense variants had decreased ATPase activity, and one caused hyperactivation. Other variants were predicted to cause haploinsufficiency, suggesting a loss-of-function mechanism. This cohort expands the spectrum of VCP-related disease to include neurodevelopmental disease presenting in childhood.
+Notes: Z1fe7
+Times Cited:3
+Cited References Count:70
+URL: <Go to ISI>://WOS:001109601300001
+Author Address: Harvard Med Sch, Genet Training Program, Boston, MA 02115 USA
+Brigham & Womens Hosp, Boston, MA 02115 USA
+Washington Univ, Div Genet & Genom Med, St Louis, MO 63110 USA
+Washington Univ, Sch Med, Dept Neurol, St Louis, MO 63110 USA
+CALTECH, Div Biol & Biol Engn, Pasadena, CA 91125 USA
+CALTECH, Div Chem & Chem Engn, Pasadena, CA 91125 USA
+Univ Penn, Perelman Sch Med, Dept Pathol & Lab Med, Philadelphia, PA 19104 USA
+Greenwood Genet Ctr, Greenwood, SC 29646 USA
+Telemark Hosp, Dept Med Genet, Skien, Norway
+Univ Norway, Univ Hosp North Norway & Arctic, Dept Pediat Rehabil, Tromso, Norway
+CHU Brest, Serv Genet Med & Biol Reprod, Brest, France
+CHU Brest, Ctr Reference Deficiences Intellectuelles, Serv Pediat, Brest, France
+GGB, INSERM, EFS, UMR 1078, F-29200 Brest, France
+Univ Med Ctr Hamburg Eppendorf, Inst Human Genet, Hamburg, Germany
+Univ Med Ctr Hamburg Eppendorf, Dept Pediat, D-20251 Hamburg, Germany
+Charite Univ Med Berlin, Inst Med Genet & Human Genet, D-10117 Berlin, Germany
+Free Univ Berlin, D-10117 Berlin, Germany
+Humboldt Univ, D-10117 Berlin, Germany
+Charite Univ Med Berlin, BIH Biomed Innovat Acad, Berlin Inst Hlth, D-10117 Berlin, Germany
+Max Planck Inst Mol Genet, RG Dev & Dis, D-14195 Berlin, Germany
+Med Univ Graz, Inst Human Genet, Diagnost & Res Ctr Mol BioMed, A-8010 Graz, Austria
+Seattle Childrens Hosp, Div Genet Med, Seattle, WA 98105 USA
+Univ Washington, Dept Pediat, Div Genet Med, Sch Med, Seattle, WA 98195 USA
+Seattle Childrens Res Inst, Ctr Integrat Brain Res, Seattle, WA 98105 USA
+Cincinnati Childrens Hosp, Div Human Genet, Cincinnati, OH 45229 USA
+Univ Cincinnati, Coll Med, Dept Pediat, Cincinnati, OH 45267 USA
+Translat Genom Res Inst, Ctr Rare Childhood Disorders, Phoenix, AZ 85004 USA
+Michigan State Univ, Corewell Hlth, Dept Pediat & Human Dev, Coll Human Med,Helen Devos Childrens Hosp, Grand Rapids, MI 49503 USA
+Sorbonne Univ, Hop Enfants Armand Trousseau, AP HP, Dept Pediat Neurol, F-75012 Paris, France
+Sorbonne Univ, Hop Enfants Armand Trousseau, AP HP, Reference Ctr Congenital Malformat & Dis Cerebell, F-75012 Paris, France
+Sorbonne Univ, Armand Trousseau Hosp, AP HP, Cerebellar Malformat & Congenital Dis Reference C, F-75006 Paris, France
+Sorbonne Univ, Armand Trousseau Hosp, Dept Genet, Neurogenet Lab, F-75006 Paris, France
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4068
+Author: Miga, K. H. and Eichler, E. E.
+Year: 2023
+Title: Envisioning a new era: Complete genetic information from routine, telomere-to-telomere genomes
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1832-1840
+Date: Nov 2
+Short Title: Envisioning a new era: Complete genetic information from routine, telomere-to-telomere genomes
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.09.011
+Accession Number: WOS:001108549000001
+Keywords: sequence variation
+alpha-satellite
+DNA
+lipoprotein(a)
+neanderthal
+chromosome
+evolution
+disease
+Abstract: Advances in long-read sequencing and assembly now mean that individual labs can generate phased genomes that are more accurate and more contiguous than the original human reference genome. With declining costs and increasing democratization of technology, we suggest that complete genome assemblies, where both parental haplotypes are phased telomere to telomere, will become standard in human genetics. Soon, even in clinical settings where rigorous sample-handling standards must be met, affected individuals could have reference-grade genomes fully sequenced and assembled in just a few hours given advances in technology, computational processing, and annotation. Complete genetic variant discovery will transform how we map, catalog, and associate variation with human disease and fundamentally change our understanding of the genetic diversity of all humans.
+Notes: Y9rb9
+Times Cited:9
+Cited References Count:67
+URL: <Go to ISI>://WOS:001108549000001
+Author Address: Univ Calif Santa Cruz, Dept Biomol Engn, Santa Cruz, CA 95064 USA
+Univ Washington, Sch Med, Dept Genome Sci, Seattle, WA 98195 USA
+Univ Washington, Howard Hughes Med Inst, Seattle, WA 98195 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4076
+Author: Nil, Z., Deshwar, A. R., Huang, Y., Barish, S., Zhang, X., Choufani, S., Stabej, P. L., Hayes, I., Yap, P., Haldeman-Englert, C., Wilson, C., Prescott, T., Tveten, K., Vollo, A., Haynes, D., Wheeler, P. G., Zon, J., Cytrynbaum, C., Jobling, R., Blyth, M., Banka, S., Afenjar, A., Mignot, C., Robin-Renaldo, F., Keren, B., Kanca, O., Mao, X., Wegner, D. J., Sisco, K., Shinawi, M., Wangler, M. F., Weksberg, R., Yamamoto, S., Costain, G., Bellen, H. J. and Network, Undiagnosed Dis
+Year: 2023
+Title: Rare
+
+
+ gain-of-function missense variants in
+ are associated with developmental delay and congenital anomalies
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1919-1937
+Date: Nov 2
+Short Title: Rare
+
+
+ gain-of-function missense variants in
+ are associated with developmental delay and congenital anomalies
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.09.009
+Accession Number: WOS:001108951000001
+Keywords: histone h3
+h3k79 methylation
+lysine methylation
+dot1l
+gene
+domain
+transcription
+recruitment
+versatile
+platform
+Abstract: Misregulation of histone lysine methylation is associated with several human cancers and with human developmental disorders. DOT1L is an evolutionarily conserved gene encoding a lysine methyltransferase (KMT) that methylates histone 3 lysine-79 (H3K79) and was not previously associated with a Mendelian disease in OMIM. We have identified nine unrelated individuals with seven different de novo heterozygous missense variants in DOT1L through the Undiagnosed Disease Network (UDN), the SickKids Complex Care genomics proj-ect, and GeneMatcher. All probands had some degree of global developmental delay/intellectual disability, and most had one or more major congenital anomalies. To assess the pathogenicity of the DOT1L variants, functional studies were performed in Drosophila and human cells. The fruit fly DOT1L ortholog, grappa, is expressed in most cells including neurons in the central nervous system. The iden-tified DOT1L variants behave as gain-of-function alleles in flies and lead to increased H3K79 methylation levels in flies and human cells. Our results show that human DOT1L and fly grappa are required for proper development and that de novo heterozygous variants in DOT1L are associated with a Mendelian disease.
+Notes: Z0gj0
+Times Cited:1
+Cited References Count:76
+URL: <Go to ISI>://WOS:001108951000001
+Author Address: Baylor Coll Med, Dept Mol & Human Genet, Houston, TX 77030 USA
+Texas Childrens Hosp, Jan & Dan Duncan Neurol Res Inst, Houston, TX 77030 USA
+Hosp Sick Children, Div Clin & Metab Genet, Toronto, ON, Canada
+Hosp Sick Children, Program Genet & Genome Biol, Toronto, ON, Canada
+Cent South Univ, Xiangya Hosp, Dept Neurol, Changsha 410008, Peoples R China
+Hunan Prov Maternal & Child Hlth Care Hosp, Natl Hlth Commiss Key Lab Birth Defect Res & Preve, Changsha 410005, Peoples R China
+Univ Auckland, Fac Med & Hlth Sci, Dept Mol Med & Pathol, Auckland, New Zealand
+Auckland Dist Hlth Board, Genet Hlth Serv New Zealand Northern Hub, Auckland, New Zealand
+Mission Fullerton Genet Ctr, Asheville, NC 28803 USA
+Telemark Hosp Trust, Dept Med Genet, N-3710 Skien, Norway
+Hosp Ostfold, Dept Pediat, N-1714 Gralum, Norway
+Arnold Palmer Hosp Children Orlando Hlth, Div Genet, Orlando, FL USA
+Guys & St Thomas NHS Trust, Guys Hosp, Clin Genet Serv, London, England
+Clin Genet Ctr, North Scotland Reg Genet Serv, Ashgrove House, Aberdeen, Scotland
+Univ Manchester, Fac Biol Med & Hlth, Sch Biol Sci, Div Evolut Infect & Genom, Manchester M13 9PL, England
+Manchester Univ Fdn NHS Trust, St Marys Hosp, Manchester Ctr Genom Med, Hlth Innovat Manchester, Manchester M13 9WL, England
+Hop Trousseau, AP HP, Serv Genet, CRMR Malformat & Malad Congenitales Cervelet & CRM, Paris, France
+Sorbonne Univ, Dept Genet, Grp Hop Pitie Salpetriere, Paris, France
+Hop Trousseau, Paris, France
+Ctr Reference Deficiences Intellectuelles Causes R, Paris, France
+Sorbonne Univ, Hop Trousseau, AP HP, Serv Neurpoediatrie, Paris, France
+Hop La Pitie Salpetriere, AP HP, Dept Genet, F-75013 Paris, France
+Hunan Prov Maternal & Child Hlth Care Hosp, Clin Res Ctr Placental Med Hunan Prov, Changsha 410005, Peoples R China
+Washington Univ, Sch Med, Dept Pediat, St Louis, MO 63110 USA
+Univ Toronto, Dept Mol Genet, Toronto, ON, Canada
+Baylor Coll Med, Dept Neurosci, Houston, TX 77030 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4075
+Author: Pagliara, D., Ciolfi, A., Pedace, L., Haghshenas, S., Ferilli, M., Levy, M. A., Miele, E., Nardini, C., Cappelletti, C., Relator, R., Pitisci, A., De Vito, R., Pizzi, S., Kerkhof, J., McConkey, H., Nazio, F., Kant, S. G., Di Donato, M., Agolini, E., Matraxia, M., Pasini, B., Pelle, A., Galluccio, T., Novelli, A., Barakat, T. S., Andreani, M., Rossi, F., Mecucci, C., Savoia, A., Sadikovic, B., Locatelli, F. and Tartaglia, M.
+Year: 2023
+Title: Identification of a robust DNA methylation signature for Fanconi anemia
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1938-1949
+Date: Nov 2
+Short Title: Identification of a robust DNA methylation signature for Fanconi anemia
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.09.014
+Accession Number: WOS:001110012800001
+Keywords: diagnosis
+variants
+genetics
+pathway
+roles
+Abstract: Fanconi anemia (FA) is a clinically variable and genetically heterogeneous cancer-predisposing disorder representing the most common bone marrow failure syndrome. It is caused by inactivating predominantly biallelic mutations involving >20 genes encoding proteins with roles in the FA/BRCA DNA repair pathway. Molecular diagnosis of FA is challenging due to the wide spectrum of the contributing gene mutations and structural rearrangements. The assessment of chromosomal fragility after exposure to DNA cross-linking agents is generally required to definitively confirm diagnosis. We assessed peripheral blood genome-wide DNA methylation (DNAm) profiles in 25 subjects with molecularly confirmed clinical diagnosis of FA (FANCA complementation group) using Illumina's Infinium EPIC array. We identified 82 differentially methylated CpG sites that allow to distinguish subjects with FA from healthy individuals and subjects with other genetic disorders, defining an FA-specific DNAm signature. The episignature was validated using a second cohort of subjects with FA involving different complementation groups, documenting broader genetic sensitivity and demonstrating its specificity using the EpiSign Knowledge Database. The episignature properly classified DNA samples obtained from bone marrow aspirates, demonstrating robustness. Using the selected probes, we trained a machine-learning model able to classify EPIC DNAm profiles in molecularly unsolved cases. Finally, we show that the generated episignature includes CpG sites that do not undergo functional selective pressure, allowing diagnosis of FA in individuals with reverted phenotype due to gene conversion. These findings provide a tool to accelerate diagnostic testing in FA and broaden the clinical utility of DNAm profiling in the diagnostic setting.
+Notes: Z1ux2
+Times Cited:1
+Cited References Count:49
+URL: <Go to ISI>://WOS:001110012800001
+Author Address: Bambino Gesu Pediat Hosp, Dept Hematol Oncol & Cell & Gene Therapy, IRCCS, I-00146 Rome, Italy
+Bambino Gesu Pediat Hosp, Mol Genet & Funct Genom, IRCCS, I-00146 Rome, Italy
+London Hlth Sci Ctr, Verspeeten Clin Genome Ctr, London, ON N6A 5W9, Canada
+Bambino Gesu Pediat Hosp, Dept Labs, IRCCS, I-00146 Rome, Italy
+Western Univ, Dept Pathol & Lab Med, London, ON N6A 3K7, Canada
+Erasmus MC Univ Med Ctr, Dept Clin Genet, Rotterdam NL-3015, Netherlands
+Bambino Gesu Pediat Hosp, IRCCS, Translat Cytogen Res Unit, Lab Med Genet, I-00165 Rome, Italy
+Molinettes Hosp, AOU Citta Salute Sci Torino, I-10126 Turin, Italy
+IRCCS Bambino Gesu Childrens Hosp, Dept Hematol Oncol, Lab Transplant Immuno genet, Cell & Gene Therapy, I-00146 Rome, Italy
+Erasmus MC Univ Med Ctr, ENCORE Expertise Ctr Neurodev Disorders, NL-3015 Rotterdam, Netherlands
+Univ Campania Luigi Vanvitelli, Dept Woman Child & Gen & Specialist Surg, I-80138 Naples, Italy
+Univ & Hosp Perugia, Inst Hematol, I-06123 Perugia, Italy
+Univ & Hosp Perugia, Ctr Hematooncol Res, I-06123 Perugia, Italy
+Univ Verona, Dept Neurosci Biomed & Movement Sci, I-37134 Verona, Italy
+Catholic Univ Sacred Hearth, Dept Pediat, I-00168 Rome, Italy
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4063
+Author: Privé, F., Albinana, C., Arbel, J., Pasaniuc, B. and Vilhjálmsson, B. J.
+Year: 2023
+Title: Inferring disease architecture and predictive ability with LDpred2-auto
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2042-2055
+Date: Dec 7
+Short Title: Inferring disease architecture and predictive ability with LDpred2-auto
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.010
+Accession Number: WOS:001134322100001
+Keywords: local genetic correlation
+genome-wide association
+uk biobank
+polygenic scores
+complex traits
+heritability
+schizophrenia
+metaanalysis
+components
+regression
+Abstract: LDpred2 is a widely used Bayesian method for building polygenic scores (PGSs). LDpred2-auto can infer the two parameters from the LDpred model, the SNP heritability h2 and polygenicity p, so that it does not require an additional validation dataset to choose best -performing parameters. The main aim of this paper is to properly validate the use of LDpred2-auto for inferring multiple genetic parameters. Here, we present a new version of LDpred2-auto that adds an optional third parameter a to its model, for modeling negative selection. We then validate the inference of these three parameters (or two, when using the previous model). We also show that LDpred2-auto provides per-variant probabilities of being causal that are well calibrated and can therefore be used for fine-mapping purposes. We also introduce a formula to infer the out-of-sample predictive performance r2 of the resulting PGS directly from the Gibbs sampler of LDpred2-auto. Finally, we extend the set of HapMap3 variants recommended to use with LDpred2 with 37% more variants to improve the coverage of this set, and we show that this new set of variants captures 12% more heritability and provides 6% more predictive performance, on average, in UK Biobank analyses.
+Notes: Dt4v8
+Times Cited:11
+Cited References Count:78
+URL: <Go to ISI>://WOS:001134322100001
+Author Address: Aarhus Univ, Natl Ctr Register Based Res, Aarhus, Denmark
+Univ Grenoble Alpes, Inria, CNRS, Grenoble INP,LJK, Grenoble, France
+Univ Calif Los Angeles, Bioinformat Interdept Program, Los Angeles, CA USA
+Univ Calif Los Angeles, David Geffen Sch Med, Dept Human Genet, Los Angeles, CA USA
+Univ Calif Los Angeles, David Geffen Sch Med, Dept Pathol & Lab Med, Los Angeles, CA USA
+Univ Calif Los Angeles, David Geffen Sch Med, Dept Computat Med, Los Angeles, CA USA
+Aarhus Univ, Bioinformat Res Ctr, Aarhus, Denmark
+Broad Inst, Novo Nordisk Fdn Ctr Genom Mech Dis, Cambridge, MA USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4056
+Author: Rios, J. J., Li, Y., Paria, N., Bohlender, R. J., Huff, C., Rosenfeld, J. A., Liu, P. F., Bi, W. M., Haga, K., Fukuda, M., Vashisth, S., Kaur, K., Chahrour, M. H., Bober, M. B., Duker, A. L., Ladha, F. A., Hanchard, N. A., Atala, K., Khanshour, A. M., Smith, L., Wise, C. A. and Delgado, M. R.
+Year: 2023
+Title: haploinsufficiency phenocopies the 2p14-p15 microdeletion and is associated with impaired neuronal differentiation
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2103-2111
+Date: Dec 7
+Short Title: haploinsufficiency phenocopies the 2p14-p15 microdeletion and is associated with impaired neuronal differentiation
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.009
+Accession Number: WOS:001134963800001
+Keywords: hereditary spastic paraplegia
+gtpases
+gene
+mutation
+growth
+Abstract: Hereditary spastic parapareses (HSPs) are clinically heterogeneous motor neuron diseases with variable age of onset and severity. Although variants in dozens of genes are implicated in HSPs, much of the genetic basis for pediatric-onset HSP remains unexplained. Here, we re-analyzed clinical exome-sequencing data from siblings with HSP of unknown genetic etiology and identified an inherited nonsense mutation (c.523C>T [p.Arg175Ter]) in the highly conserved RAB1A. The mutation is predicted to produce a truncated protein with an intact RAB GTPase domain but without two C-terminal cysteine residues required for proper subcellular protein localization. Additional RAB1A mutations, including two frameshift mutations and a mosaic missense mutation (c.83T>C [p.Leu28Pro]), were identified in three individuals with similar neurodevelopmental presentations. In rescue experiments, production of the full-length, but not the truncated, RAB1a rescued Golgi structure and cell proliferation in Rab1-depleted cells. In contrast, the missense-variant RAB1a disrupted Golgi structure despite intact Rab1 expression, suggesting a dominant-negative function of the mosaic missense mutation. Knock-down of RAB1A in cultured human embryonic stem cell-derived neurons resulted in impaired neuronal arborization. Finally, RAB1A is located within the 2p14-p15 microdeletion syndrome locus. The similar clinical presentations of individuals with RAB1A loss-of-function mutations and the 2p14-p15 microdeletion syndrome implicate loss of RAB1A in the pathogenesis of neurodevelopmental manifestations of this microdeletion syndrome. Our study identifies a RAB1A-related neurocognitive disorder with speech and motor delay, demonstrates an essential role for RAB1a in neuronal differentiation, and implicates RAB1A in the etiology of the neurodevelopmental sequelae associated with the 2p14-p15 microdeletion syndrome.
+Notes: Dv9b7
+Times Cited:1
+Cited References Count:34
+URL: <Go to ISI>://WOS:001134963800001
+Author Address: Scottish Rite Children, Ctr Pediat Bone Biol & Translat Res, Dallas, TX 75219 USA
+Univ Texas Southwestern Med Ctr, Eugene McDermott Ctr Human Growth & Dev, Dallas, TX 75390 USA
+Univ Texas Southwestern Med Ctr, Dept Pediat, Dallas, TX 75390 USA
+Univ Texas Southwestern Med Ctr, Dept Orthopaed Surg, Dallas, TX 75390 USA
+Univ Texas MD Anderson Canc Ctr, Dept Epidemiol, Houston, TX 77030 USA
+Baylor Coll Med, Dept Mol & Human Genet, Houston, TX 77030 USA
+Baylor Genet, Houston, TX 77021 USA
+Tohoku Univ, Grad Sch Life Sci, Dept Integrat Life Sci, Sendai, Miyagi 9808578, Japan
+Univ Texas Southwestern Med Ctr, Dept Neurosci, Dallas, TX 75390 USA
+Univ Texas Southwestern Med Ctr, Dept Psychiat, Dallas, TX 75390 USA
+Univ Texas Southwestern Med Ctr, Peter O Donnell Brain Inst, Dallas, TX 75390 USA
+Univ Texas Southwestern Med Ctr, Ctr Genet Host Def, Dallas, TX 75390 USA
+Nemours Childrens Hosp, Wilmington, DE 19803 USA
+Thomas Jefferson Univ, Philadelphia, PA 19144 USA
+Scottish Rite Children, Dept Neurol, Dallas, TX 75219 USA
+Univ Texas Southwestern Med Ctr, Dept Neurol & Neurotherapeut, Dallas, TX 75390 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4058
+Author: Scheller, I. F., Lutz, K., Mertes, C., Yépez, V. A. and Gagneur, J.
+Year: 2023
+Title: Improved detection of aberrant splicing with FRASER 2.0 and the intron Jaccard index
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2056-2067
+Date: Dec 7
+Short Title: Improved detection of aberrant splicing with FRASER 2.0 and the intron Jaccard index
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.014
+Accession Number: WOS:001134318500001
+Keywords: variants
+Abstract: Detection of aberrantly spliced genes is an important step in RNA-seq-based rare-disease diagnostics. We recently developed FRASER, a denoising autoencoder-based method that outperformed alternative methods of detecting aberrant splicing. However, because FRASER's three splice metrics are partially redundant and tend to be sensitive to sequencing depth, we introduce here a more robust intron-excision metric, the intron Jaccard index, that combines the alternative donor, alternative acceptor, and intron-retention signal into a single value. Moreover, we optimized model parameters and filter cutoffs by using candidate rare-splice-disrupting variants as independent evidence. On 16,213 GTEx samples, our improved algorithm, FRASER 2.0, called typically 10 times fewer splicing outliers while increasing the proportion of candidate rare-splice-disrupting variants by 10-fold and substantially decreasing the effect of sequencing depth on the number of reported outliers. To lower the multiple-testing correction burden, we introduce an option to select the genes to be tested for each sample instead of a transcriptome-wide approach. This option can be particularly useful when prior information, such as candidate variants or genes, is available. Application on 303 rare-disease samples confirmed the relative reduction in the number of outlier calls for a slight loss of sensitivity; FRASER 2.0 recovered 22 out of 26 previously identified pathogenic splicing cases with default cutoffs and 24 when multiple-testing correction was limited to OMIM genes containing rare variants. Altogether, these methodological improvements contribute to more effective RNA-seq-based rare diagnostics by drastically reducing the amount of splicing outlier calls per sample at minimal loss of sensitivity.
+Notes: Dt4s3
+Times Cited:5
+Cited References Count:41
+URL: <Go to ISI>://WOS:001134318500001
+Author Address: Tech Univ Munich, Sch Computat Informat & Technol, D-85748 Garching, Germany
+Helmholtz Ctr Munich, Computat Hlth Ctr, D-85764 Neuherberg, Germany
+Tech Univ Munich, Munich Data Sci Inst, D-85748 Garching, Germany
+Tech Univ Munich, Inst Human Genet, Sch Med, D-81675 Munich, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4061
+Author: Smolen, C., Jensen, M., Dyer, L., Pizzo, L., Tyryshkina, A., Banerjee, D., Rohan, L., Huber, E., Khattabi, L. E., Prontera, P., Caberg, J. H., Dijck, A. V., Schwartz, C., Faivre, L., Callier, P., Mosca-Boidron, A. L., Lefebvre, M., Pope, K., Snell, P., Lockhart, P. J., Castiglia, L., Galesi, O., Avola, E., Mattina, T., Fichera, M., Mandara, G. M. L., Bruccheri, M. G., Pichon, O., Caignec, C. L., Stoeva, R., Cuinat, S., Mercier, S., Beneteau, C., Blesson, S., Nordsletten, A., Martin-Coignard, D., Sistermans, E., Kooy, R. F., Amor, D. J., Romano, C., Isidor, B., Juusola, J. and Girirajan, S.
+Year: 2023
+Title: Assortative mating and parental genetic relatedness contribute to the pathogenicity of variably expressive variants
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2015-+
+Date: Dec 7
+Short Title: Assortative mating and parental genetic relatedness contribute to the pathogenicity of variably expressive variants
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.015
+Accession Number: WOS:001134764900001
+Keywords: bipolar disorder
+copy-number
+psychiatric-disorders
+autism
+spectrum
+risk
+schizophrenia
+architecture
+susceptibility
+comorbidity
+Abstract: We examined more than 97,000 families from four neurodevelopmental disease cohorts and the UK Biobank to identify phenotypic and genetic patterns in parents contributing to neurodevelopmental disease risk in children. We identified within- and cross-disorder correlations between six phenotypes in parents and children, such as obsessive-compulsive disorder (R = 0.32-0.38, p < 10(-126)). We also found that measures of sub-clinical autism features in parents are associated with several autism severity measures in children, including biparental mean Social Responsiveness Scale scores and proband Repetitive Behaviors Scale scores (regression coefficient = 0.14, p = 3.38 x 10(-4)). We further describe patterns of phenotypic similarity between spouses, where spouses show correlations for six neurological and psychiatric phenotypes, including a within-disorder correlation for depression (R = 0.24-0.68, p < 0.001) and a cross-disorder correlation between anxiety and bipolar disorder (R = 0.09-0.22, p < 10(-92)). Using a simulated population, we also found that assortative mating can lead to increases in disease liability over generations and the appearance of "genetic anticipation" in families carrying rare variants. We identified several families in a neurodevelopmental disease cohort where the proband inherited multiple rare variants in disease-associated genes from each of their affected parents. We further identified parental relatedness as a risk factor for neurodevelopmental disorders through its inverse relationship with variant pathogenicity and propose that parental relatedness modulates disease risk by increasing genome-wide homozygosity in children (R = 0.05-0.26, p < 0.05). Our results highlight the utility of assessing parent phenotypes and genotypes toward predicting features in children who carry rare variably expressive variants and implicate assortative mating as a risk factor for increased disease severity in these families.
+Notes: Dv1l5
+Times Cited:5
+Cited References Count:92
+URL: <Go to ISI>://WOS:001134764900001
+Author Address: Penn State Univ, Dept Biochem & Mol Biol, University Pk, PA 16802 USA
+Penn State Univ, Bioinformat & Genom Grad Program, University Pk, PA 16802 USA
+GeneDx, Gaithersburg, MD 20877 USA
+Penn State Univ, Neurosci Grad Program, University Pk, PA 16802 USA
+Armand Trousseau Hosp, AP HP, Dept Med Genet, Paris, France
+Hop La Pitie Salpetriere, AP HP, Dept Med Genet, Paris, France
+Hosp Santa Maria della Misericordia, Med Genet Unit, Perugia, Italy
+Domaine Univ Sart Tilman, Ctr Hosp Univ Liege, Liege, Belgium
+Univ Antwerp, Dept Med Genet, Antwerp, Belgium
+Univ Hosp Antwerp, Antwerp, Belgium
+Greenwood Genet Ctr, Greenwood, SC 29646 USA
+CHU Dijon, Ctr Genet, Hop Enfants, Dijon, France
+CHU Dijon, Ctr Reference Anomalies Dev & Syndromes Malformat, Hop Enfants, Dijon, France
+Univ Bourgogne Franche Comte, INSERM, GAD UMR1231, FHU TRANSLAD, Dijon, France
+CHU Dijon, Lab Genet Chromosom & Mol, Dijon, France
+Univ Melbourne, Dept Paediat, Melbourne, Vic, Australia
+Murdoch Childrens Res Inst, Bruce Lefroy Ctr, Melbourne, Vic, Australia
+IRCCS, Oasi Res Inst, Res Unit Rare Dis & Neurodev Disorders, I-94018 Troina, Italy
+Univ Catania, Dept Biomed & Biotechnol Sci, Med Genet, I-95123 Catania, Italy
+ASP Ragusa, Med Genet, Ragusa, Italy
+CHU Nantes, Dept Med Genet, Nantes, France
+Penn State Univ, Dept Anthropol, University Pk, PA 16802 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4059
+Author: Suckiel, S. A., Kelly, N. R., Odgis, J. A., Gallagher, K. M., Sebastin, M., Bonini, K. E., Marathe, P. N., Brown, K., Biase, M. D., Ramos, M. A., Rodriguez, J. E., Scarimbolo, L., Insel, B. J., Ferar, K. D. M., Zinberg, R. E., Diaz, G. A., Greally, J. M., Abul-Husn, N. S., Bauman, L. J., Gelb, B. D., Horowitz, C. R., Wasserstein, M. P. and Kenny, E. E.
+Year: 2023
+Title: The NYCKidSeq randomized controlled trial: Impact of GUI<acute accent>A digitally enhanced genetic results disclosure in diverse families
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2029-2041
+Date: Dec 7
+Short Title: The NYCKidSeq randomized controlled trial: Impact of GUI<acute accent>A digitally enhanced genetic results disclosure in diverse families
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.016
+Accession Number: WOS:001134467800001
+Keywords: decision aid
+communication
+challenges
+Abstract: Digital solutions are needed to support rapid increases in the application of genetic/genomic tests (GTs) in diverse clinical settings and patient populations. We developed GUIA, a bilingual digital application that facilitates disclosure of GT results. The NYCKidSeq randomized controlled trial enrolled diverse children with neurologic, cardiac, and immunologic conditions who underwent GTs. The trial evaluated GUIA's impact on understanding the GT results by randomizing families to results disclosure genetic counseling with GUIA (intervention) or standard of care (SOC). Parents/legal guardians (participants) completed surveys at baseline, post-results disclosure, and 6 months later. Survey measures assessed the primary study outcomes of participants' perceived understanding of and confidence in explaining their child's GT results and the secondary outcome of objective understanding. The analysis included 551 diverse participants, 270 in the GUIA arm and 281 in SOC. Participants in the GUIA arm had significantly higher perceived understanding post-results (OR = 2.8, CI[1.004, 7.617], p = 0.049) and maintained higher objective understanding over time (OR = 1.1, CI[1.004, 1.127], p = 0.038) compared to SOC. There was no impact on perceived confidence. Hispanic/Latino(a) individuals in the GUIA arm maintained higher perceived understanding (OR = 3.9, CI[1.603, 9.254], p = 0.003), confidence (OR = 2.7, CI[1.021, 7.277], p = 0.046), and objective understanding (OR = 1.1, CI[1.009, 1.212], p = 0.032) compared to SOC. This trial demonstrates that GUIA positively impacts understanding of GT results in diverse parents of children with suspected genetic conditions and builds a case for utilizing GUIA to deliver complex results. Continued development and evaluation of digital applications in diverse populations are critical for equitably scaling GT offerings in specialty clinics.
+Notes: Du0h0
+Times Cited:2
+Cited References Count:36
+URL: <Go to ISI>://WOS:001134467800001
+Author Address: Icahn Sch Med Mt Sinai, Inst Genom Hlth, New York, NY 10029 USA
+Icahn Sch Med Mt Sinai, Dept Med, New York, NY 10029 USA
+Montefiore Med Ctr, Albert Einstein Coll Med, Childrens Hosp Montefiore, Dept Pediat,Div Pediat Genet Med, Bronx, NY 10467 USA
+Icahn Sch Med Mt Sinai, Dept Populat Hlth Sci & Policy, New York, NY 10029 USA
+Icahn Sch Med Mt Sinai, Inst Hlth Equ Res, New York, NY 10029 USA
+Icahn Sch Med Mt Sinai, Dept Genet & Genom Sci, New York, NY 10029 USA
+Icahn Sch Med Mt Sinai, Dept Obstet Gynecol & Reprod Sci, New York, NY 10029 USA
+Icahn Sch Med Mt Sinai, Dept Pediat, New York, NY 10029 USA
+Albert Einstein Coll Med, Dept Psychiat & Behav Sci, Bronx, NY 10467 USA
+Albert Einstein Coll Med, Dept Pediat, Bronx, NY 10467 USA
+Icahn Sch Med Mt Sinai, Mindich Child Hlth & Dev Inst, New York, NY 10029 USA
+Sarah Lawrence Coll, Grad Program Human Genet, Bronxville, NY 10708 USA
+Illumina, San Diego, CA 92122 USA
+iECURE Inc, Philadelphia, PA 19422 USA
+23andMe Inc, Sunnyvale, CA 94086 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4057
+Author: Sun, S. Q., Aboelenain, M., Ariad, D., Haywood, M. E., Wageman, C. R., Duke, M., Bag, A., Viotti, M., Katz-Jaffe, M., McCoy, R. C., Schindler, K. and Xing, J. C.
+Year: 2023
+Title: Identifying risk variants for embryo aneuploidy using ultra-low coverage whole-genome sequencing from preimplantation genetic testing
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 12
+Pages: 2092-2102
+Date: Dec 7
+Short Title: Identifying risk variants for embryo aneuploidy using ultra-low coverage whole-genome sequencing from preimplantation genetic testing
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.11.002
+Accession Number: WOS:001134321300001
+Keywords: ancestry estimation
+female infertility
+age
+trophectoderm
+imputation
+discovery
+insights
+mutation
+errors
+Abstract: Aneuploidy frequently arises during human meiosis and is the primary cause of early miscarriage and in vitro fertilization (IVF) failure. Individuals undergoing IVF exhibit significant variability in aneuploidy rates, although the exact genetic causes of the variability in aneuploid egg production remain unclear. Preimplantation genetic testing for aneuploidy (PGT-A) using next-generation sequencing is a standard test for identifying and selecting IVF-derived euploid embryos. The wealth of embryo aneuploidy data and ultra-low coverage whole-genome sequencing (ulc-WGS) data from PGT-A have the potential to discover variants in parental genomes that are associated with aneuploidy risk in their embryos. Using ulc-WGS data from 10,000 PGT-A biopsies, we imputed genotype likelihoods of genetic variants in embryo genomes. We then used the imputed variants and embryo aneuploidy calls to perform a genome-wide association study of aneuploidy incidence. Finally, we carried out functional evaluation of the identified candidate gene in a mouse oocyte system. We identified one locus on chromosome 3 that is significantly associated with meiotic aneuploidy risk. One candidate gene, CCDC66, encompassed by this locus, is involved in chromosome segregation during meiosis. Using mouse oocytes, we showed that CCDC66 regulates meiotic progression and chromosome segregation fidelity, especially in older mice. Our work extended the research utility of PGT-A ulc-WGS data by allowing robust association testing and improved the understanding of the genetic contribution to maternal meiotic aneuploidy risk. Importantly, we introduce a generalizable method that has potential to be leveraged for similar association studies that use ulc-WGS data.
+Notes: Dt4v0
+Times Cited:4
+Cited References Count:64
+URL: <Go to ISI>://WOS:001134321300001
+Author Address: Rutgers State Univ, Dept Genet, Piscataway, NJ 08854 USA
+Johns Hopkins Univ, Dept Biol, Baltimore, MD USA
+CCRM Genet, Lone Tree, CO USA
+Zouves Fdn Reprod Med, Foster City, CA USA
+Kindlabs, Kindbody, New York, NY USA
+Rutgers State Univ, Human Genet Inst New Jersey, Piscataway, NJ 08854 USA
+Mansoura Univ, Fac Vet Med, Dept Theriogenol, Mansoura, Egypt
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4066
+Author: Tang, D., Freudenberg, J. and Dahl, A.
+Year: 2023
+Title: Factorizing polygenic epistasis improves prediction and uncovers biological pathways in complex traits
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1875-1887
+Date: Nov 2
+Short Title: Factorizing polygenic epistasis improves prediction and uncovers biological pathways in complex traits
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.002
+Accession Number: WOS:001108625500001
+Keywords: genome-wide association
+missing heritability
+genetic interactions
+linkage disequilibrium
+phantom epistasis
+risk
+architecture
+expression
+phenotypes
+biobank
+Abstract: Epistasis is central in many domains of biology, but it has not yet been proven useful for understanding the etiology of complex traits. This is partly because complex-trait epistasis involves polygenic interactions that are poorly captured in current models. To address this gap, we developed a model called Epistasis Factor Analysis (EFA). EFA assumes that polygenic epistasis can be factorized into interactions between a few epistasis factors (EFs), which represent latent polygenic components of the observed complex trait. The statistical goals of EFA are to improve polygenic prediction and to increase power to detect epistasis, while the biological goal is to unravel genetic effects into more -ho-mogeneous units. We mathematically characterize EFA and use simulations to show that EFA outperforms current epistasis models when its assumptions approximately hold. Applied to predicting yeast growth rates, EFA outperforms the additive model for several traits with large epistasis heritability and uniformly outperforms the standard epistasis model. We replicate these prediction improvements in a second data -set. We then apply EFA to four previously characterized traits in the UK Biobank and find statistically significant epistasis in all four, including two that are robust to scale transformation. Moreover, we find that the inferred EFs partly recover pre-defined biological pathways for two of the traits. Our results demonstrate that more realistic models can identify biologically and statistically meaningful epistasis in complex traits, indicating that epistasis has potential for precision medicine and characterizing the biology underlying GWAS results.
+Notes: Y9tz3
+Times Cited:2
+Cited References Count:81
+URL: <Go to ISI>://WOS:001108625500001
+Author Address: Univ Chicago, Sect Genet Med, Chicago, IL 60637 USA
+Harvard Med Sch, Program Bioinformat & Integrat Genom, Boston, MA 02115 USA
+Univ Calif Los Angeles, Bioinformat Interdept Program, Los Angeles, CA USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4070
+Author: Tanigawa, Y. and Kellis, M.
+Year: 2023
+Title: Power of inclusion: Enhancing polygenic prediction with admixed individuals
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1888-1902
+Date: Nov 2
+Short Title: Power of inclusion: Enhancing polygenic prediction with admixed individuals
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.09.013
+Accession Number: WOS:001108308000001
+Keywords: risk scores
+genetic risk
+Abstract: Admixed individuals offer unique opportunities for addressing limited transferability in polygenic scores (PGSs), given the substantial trans-ancestry genetic correlation in many complex traits. However, they are rarely considered in PGS training, given the challenges in representing ancestry-matched linkage-disequilibrium reference panels for admixed individuals. Here we present inclusive PGS (iPGS), which captures ancestry-shared genetic effects by finding the exact solution for penalized regression on individual-level data and is thus naturally applicable to admixed individuals. We validate our approach in a simulation study across 33 configurations with varying heritability, polygenicity, and ancestry composition in the training set. When iPGS is applied ton = 237,055 ancestry-diverse individuals in the UK Biobank, it shows the greatest improvements in Africans by 48.9% on average across 60 quantitative traits and up to 50-fold improvements for some traits (neutrophil count, R2 = 0.058) over the baseline model trained on the same number of European individuals. When we allowed iPGS to use n = 284,661 individuals, we observed an average improvement of 60.8% for African, 11.6% for South Asian, 7.3% for non-British White, 4.8% for White British, and 17.8% for the other individuals. We further developed iPGS+refit to jointly model the ancestry-shared and-dependent genetic effects when heterogeneous genetic associations were present. For neutrophil count, for example, iPGS+refit showed the highest predictive performance in the African group (R2 = 0.115), which exceeds the best predictive performance for the White British group (R2 = 0.090 in the iPGS model), even though only 1.49% of individuals used in the iPGS training are of African ancestry. Our results indicate the power of including diverse individuals for developing more equitable PGS models.
+Notes: Y9hx3
+Times Cited:4
+Cited References Count:75
+URL: <Go to ISI>://WOS:001108308000001
+Author Address: MIT, Comp Sci & Artificial Intelligence Lab, Cambridge, MA 02139 USA
+Broad Inst MIT & Harvard, Cambridge, MA 02142 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4069
+Author: Vassy, J. L., Brunette, C. A., Lebo, M. S., Macisaac, K., Yi, T., Danowski, M. E., Alexander, N. V. J., Cardellino, M. P., Christensen, K. D., Gala, M., Green, R. C., Harris, E., Jones, N. E., Kerman, B. J., Kraft, P., Kulkarni, P., Lewis, A. C. F., Lubitz, S. A., Natarajan, P. and Antwi, A. A.
+Year: 2023
+Title: The GenoVA study: Equitable implementation of a pragmatic randomized trial of polygenic-risk scoring in primary care
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1841-1852
+Date: Nov 2
+Short Title: The GenoVA study: Equitable implementation of a pragmatic randomized trial of polygenic-risk scoring in primary care
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.10.001
+Accession Number: WOS:001108669000001
+Keywords: disease
+actionability
+variants
+veterans
+Abstract: Polygenic risk scores (PRSs) hold promise for disease risk assessment and prevention. The Genomic Medicine at Veterans Affairs (GenoVA) Study is addressing three main challenges to the clinical implementation of PRSs in preventive care: defining and determining their clinical utility, implementing them in time-constrained primary care settings, and countering their potential to exacerbate health-care disparities. The study processes used to test patients, report their PRS results to them and their primary care providers (PCPs), and promote the use of those results in clinical decision-making are modeled on common practices in primary care. The following diseases were chosen for their prevalence and familiarity to PCPs: coronary artery disease; type 2 diabetes; atrial fibrillation; and breast, colorectal, and prostate cancers. A randomized clinical trial (RCT) design and primary outcome of time-to-new-diagnosis of a target disease bring methodological rigor to the question of the clinical utility of PRS implementation. The study's pragmatic RCT design enhances its relevance to how PRS might reasonably be implemented in primary care. Steps the study has taken to promote health equity include the thoughtful handling of genetic ancestry in PRS construction and reporting and enhanced recruitment strategies to address underrepresentation in research participation. To date, enhanced recruitment efforts have been both necessary and successful: participants of underrepresented race and ethnicity groups have been less likely to enroll in the study than expected but ultimately achieved proportional representation through targeted efforts. The GenoVA Study experience to date offers insights for evaluating the clinical utility of equitable PRS implementation in adult primary care.
+Notes: Y9vq6
+Times Cited:5
+Cited References Count:70
+URL: <Go to ISI>://WOS:001108669000001
+Author Address: VA Boston Healthcare Syst, Boston, MA 02130 USA
+Brigham & Womens Hosp, Dept Med, Div Gen Internal Med & Primary Care, Boston, MA 02115 USA
+Harvard Med Sch, Boston, MA 02115 USA
+Broad Inst Massachusetts Inst Technol & Harvard Un, Cambridge, MA 02142 USA
+Ariadne Labs, Boston, MA 02215 USA
+Mass Gen Brigham, Lab Mol Med, Cambridge, MA USA
+Brigham & Womens Hosp, Dept Pathol, Boston, MA USA
+Bucharest Univ Emergency Hosp, Bucharest, Romania
+Bucharest Univ Econ Studies, Bucharest, Romania
+Harvard Pilgrim Hlth Care Inst, Dept Populat Med, Boston, MA USA
+Massachusetts Gen Hosp, Div Gastroenterol, Boston, MA USA
+Massachusetts Gen Hosp, Clin & Translat Epidemiol Unit, Boston, MA USA
+Mass Gen Brigham, Dept Med Genet, Boston, MA USA
+NCI, Div Canc Epidemiol & Genet, Rockville, MD USA
+Harvard Univ, Edmond & Lily Safra Ctr Eth, Boston, MA USA
+Massachusetts Gen Hosp, Demoulas Ctr Cardiac Arrhythmias, Boston, MA USA
+Novartis, Novartis Inst Biomed Res, Basel, Switzerland
+Massachusetts Gen Hosp, Ctr Genom Med, Boston, MA USA
+Massachusetts Gen Hosp, Cardiovasc Res Ctr, Boston, MA USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 4073
+Author: Zhang, Z. X., Jung, J. H. Y., Kim, A., Suboc, N., Gazal, S. and Mancuso, N.
+Year: 2023
+Title: A scalable approach to characterize pleiotropy across thousands of human diseases and complex traits using GWAS summary statistics
+Journal: American Journal of Human Genetics
+Volume: 110
+Issue: 11
+Pages: 1863-1874
+Date: Nov 2
+Short Title: A scalable approach to characterize pleiotropy across thousands of human diseases and complex traits using GWAS summary statistics
+Alternate Journal: Am J Hum Genet
+ISSN: 0002-9297
+DOI: 10.1016/j.ajhg.2023.09.015
+Accession Number: WOS:001108590800001
+Keywords: heritability
+adult
+hmga2
+inflammation
+association
+risk
+gene
+Abstract: Genome-wide association studies (GWASs) across thousands of traits have revealed the pervasive pleiotropy of trait-associated genetic variants. While methods have been proposed to characterize pleiotropic components across groups of phenotypes, scaling these approaches to ultra-large-scale biobanks has been challenging. Here, we propose FactorGo, a scalable variational factor analysis model to identify and characterize pleiotropic components using biobank GWAS summary data. In extensive simulations, we observe that FactorGo outperforms the state-of-the-art (model-free) approach tSVD in capturing latent pleiotropic factors across phenotypes while maintaining a similar computational cost. We apply FactorGo to estimate 100 latent pleiotropic factors from GWAS summary data of 2,483 phenotypes measured in European-ancestry Pan-UK BioBank individuals (N 1/4 420,531). Next, we find that factors from FactorGo are more enriched with relevant tissue-specific annotations than those identified by tSVD (p 1/4 2.58E-10) and validate our approach by recapitulating brain-specific enrichment for BMI and the height-related connection between reproductive system and muscular-skeletal growth. Finally, our analyses suggest shared etiologies between rheumatoid arthritis and periodontal condition in addition to alkaline phosphatase as a candidate prognostic biomarker for prostate cancer. Overall, FactorGo improves our biological understanding of shared etiologies across thousands of GWASs.
+Notes: Y9sr2
+Times Cited:2
+Cited References Count:45
+URL: <Go to ISI>://WOS:001108590800001
+Author Address: Univ Southern Calif, Ctr Genet Epidemiol, Keck Sch Med, Dept Populat & Publ Hlth Sci, Los Angeles, CA 90007 USA
+Univ Southern Calif, Dept Quantitat & Computat Biol, Los Angeles, CA 90007 USA
+Univ Southern Calif, Norris Comprehens Canc Ctr, Keck Sch Med, Los Angeles, CA 90007 USA
+Language: English
+
