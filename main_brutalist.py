@@ -66,11 +66,11 @@ Please analyze this abstract and return a JSON-formatted response:
 {{
     "Best Journal": "XXX",
     "Suitability Scores": {{
-        "Nature Genetics": 85.2,
-        "American Journal of Human Genetics": 78.3,
-        "Genome Biology": 69.5,
-        "Human Molecular Genetics": 74.1,
-        "BMC Genomics": 61.8
+        "Nature Genetics": xxx,
+        "American Journal of Human Genetics": xxx,
+        "Genome Biology": xxx,
+        "Human Molecular Genetics": xxx,
+        "BMC Genomics": xxx
     }}
 }}
 """
