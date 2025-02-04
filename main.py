@@ -1,15 +1,15 @@
 import openai
 
-# OpenAI API Key（请替换为你的 API Key）
+# OpenAI API Key (replace with your actual API key)
 openai.api_key = "your-api-key"
 
-# 读取期刊摘要文件
+# Function to read abstract files
 def load_abstracts(file_path):
-    """加载期刊摘要文本"""
+    """Loads abstracts from a given text file."""
     with open(file_path, "r", encoding="utf-8") as f:
         return f.read()
 
-# 期刊摘要数据
+# Load abstracts from journal files
 journal_abstracts = {
     "American Journal of Human Genetics": load_abstracts("American_Journal_of_Human_Genetics_24_only.txt"),
     "BMC Genomics": load_abstracts("BMC_genomics_24_only.txt"),
@@ -18,24 +18,24 @@ journal_abstracts = {
     "Nature Genetics": load_abstracts("Nature_genetics_24_abstracts_only.txt")
 }
 
-# 让用户输入摘要
-your_abstract = input("\n请输入你的摘要：\n")
+# Ask the user to input their abstract
+your_abstract = input("\nEnter your abstract:\n")
 
-# 构造 OpenAI 分析 Prompt
+# Construct the prompt for GPT-4o-mini
 analysis_prompt = f"""
-你是一位经验丰富的学术编辑。以下是五个不同期刊的摘要数据，以及一个待投摘要。
-你的任务是根据期刊摘要内容，评估该摘要最适合哪个期刊，并给出每个期刊的适合度评分（百分制）。
+You are an experienced academic journal editor. Below are abstracts from five different journals, along with a research abstract.
+Your task is to evaluate which journal is the best fit for the given abstract and provide suitability scores (in percentage) for each journal.
 
-**待投摘要：**
+**Research Abstract to Evaluate:**
 {your_abstract}
 
-**期刊摘要数据：**
+**Journal Abstract Data:**
 {journal_abstracts}
 
-请分析该摘要的最佳匹配期刊，并返回 JSON 格式：
+Please analyze this abstract and return a JSON-formatted response:
 {{
-    "最佳期刊": "XXX",
-    "匹配评分": {{
+    "Best Journal": "XXX",
+    "Suitability Scores": {{
         "Nature Genetics": 85.2,
         "American Journal of Human Genetics": 78.3,
         "Genome Biology": 69.5,
@@ -45,16 +45,16 @@ analysis_prompt = f"""
 }}
 """
 
-# 调用 OpenAI API
+# Call OpenAI API for analysis
 response = openai.ChatCompletion.create(
     model="gpt-4o-mini",
     messages=[
-        {"role": "system", "content": "你是一位资深期刊编辑，擅长评估摘要与期刊的匹配度。"},
+        {"role": "system", "content": "You are a seasoned journal editor specializing in evaluating abstracts for academic publications."},
         {"role": "user", "content": analysis_prompt}
     ]
 )
 
-# 输出 GPT-4o-mini 分析结果
+# Extract GPT-4o-mini's response
 gpt_analysis = response["choices"][0]["message"]["content"]
-print("\n=== GPT-4o-mini 分析结果 ===\n")
+print("\n=== GPT-4o-mini Analysis Result ===\n")
 print(gpt_analysis)
